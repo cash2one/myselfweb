@@ -1,0 +1,57 @@
+[ 2016-05-20T14:20:15+08:00 ] 118.193.208.98 /index.php/Home/Weixin/index
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.010706s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000138s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000056s ]
+NOTIC: [8] Undefined index: nonce D:\localuser\ftp483451\Web\Home\Controller\WeixinController.class.php 第 17 行.
+NOTIC: [8] Undefined index: timestamp D:\localuser\ftp483451\Web\Home\Controller\WeixinController.class.php 第 19 行.
+NOTIC: [8] Undefined index: echostr D:\localuser\ftp483451\Web\Home\Controller\WeixinController.class.php 第 20 行.
+NOTIC: [8] Undefined index: signature D:\localuser\ftp483451\Web\Home\Controller\WeixinController.class.php 第 21 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA D:\localuser\ftp483451\Web\Home\Controller\WeixinController.class.php 第 41 行.
+NOTIC: [8] Trying to get property of non-object D:\localuser\ftp483451\Web\Home\Controller\WeixinController.class.php 第 59 行.
+NOTIC: [8] Trying to get property of non-object D:\localuser\ftp483451\Web\Home\Controller\WeixinController.class.php 第 90 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000052s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000163s ]
+
+[ 2016-05-20T14:20:26+08:00 ] 118.193.208.98 /index.php/Home/Weixin/index?signature=45464721b93d2aad7dfb67526e408bc3edf156dc&timestamp=1463725272&nonce=1543301949&encrypt_type=aes&msg_signature=0b7c7e5a9061964183839a0486344b5a847238fd
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000034s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000113s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000055s ]
+NOTIC: [8] Undefined index: echostr D:\localuser\ftp483451\Web\Home\Controller\WeixinController.class.php 第 20 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\localuser\ftp483451\Web\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `weixin_user` [ RunTime:0.029992s ]
+SQL: SELECT * FROM `weixin_user` WHERE ( openid='o4oRrwM2hcqCKJGVkP-Xkv6clcvU' )  [ RunTime:0.000561s ]
+SQL: SHOW COLUMNS FROM `weixin_action` [ RunTime:0.025473s ]
+SQL: SELECT * FROM `weixin_action` WHERE ( user_id="8" and action_type<>1 ) ORDER BY time desc LIMIT 1   [ RunTime:0.000887s ]
+NOTIC: [8] Undefined variable: iskeyword D:\localuser\ftp483451\Web\Home\Controller\WeixinController.class.php 第 156 行.
+
+[ 2016-05-20T14:23:33+08:00 ] 118.193.199.111 /index.php/Home/Weixin/index?signature=a967711562bdcd6ffc90d1bf697889a0ee05837f&timestamp=1463725459&nonce=877350530&encrypt_type=aes&msg_signature=6fb2dfe0c227bbdbfa328c66659df42241ca0cc7
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000121s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000055s ]
+NOTIC: [8] Undefined index: echostr D:\localuser\ftp483451\Web\Home\Controller\WeixinController.class.php 第 20 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\localuser\ftp483451\Web\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `weixin_user` [ RunTime:0.002163s ]
+SQL: SELECT * FROM `weixin_user` WHERE ( openid='o4oRrwMttTnZXV2OiDOWS8GGgXNo' )  [ RunTime:0.000627s ]
+SQL: SHOW COLUMNS FROM `weixin_action` [ RunTime:0.002046s ]
+SQL: SELECT * FROM `weixin_action` WHERE ( user_id="7" and action_type<>1 ) ORDER BY time desc LIMIT 1   [ RunTime:0.000816s ]
+NOTIC: [8] Undefined variable: iskeyword D:\localuser\ftp483451\Web\Home\Controller\WeixinController.class.php 第 156 行.
+

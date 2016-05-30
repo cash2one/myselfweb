@@ -1,0 +1,547 @@
+[ 2015-11-04T09:41:42+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 80 "&lt;input type=&quot;text&quot; title=&quot;Enter a valid email&quot; pattern=&quot;([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?&quot; required=&quot;required&quot; placeholder=&quot;Email&quot; class=&quot;email&quot;&gt;"  - Unexpected ",", expected one of: "}" , " "
+
+[ 2015-11-04T09:46:38+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show/id/11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 62 "&lt;input type=&quot;text&quot; pattern=&quot;([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?&quot; required=&quot;required&quot; placeholder=&quot;Enter email / mobile&quot; class=&quot;email&quot;&gt;"  - Unexpected ",", expected one of: "}" , " "
+
+[ 2015-11-04T09:46:39+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 62 "&lt;input type=&quot;text&quot; pattern=&quot;([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?&quot; required=&quot;required&quot; placeholder=&quot;Enter email / mobile&quot; class=&quot;email&quot;&gt;"  - Unexpected ",", expected one of: "}" , " "
+
+[ 2015-11-04T09:46:40+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 62 "&lt;input type=&quot;text&quot; pattern=&quot;([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?&quot; required=&quot;required&quot; placeholder=&quot;Enter email / mobile&quot; class=&quot;email&quot;&gt;"  - Unexpected ",", expected one of: "}" , " "
+
+[ 2015-11-04T09:46:40+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 62 "&lt;input type=&quot;text&quot; pattern=&quot;([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?&quot; required=&quot;required&quot; placeholder=&quot;Enter email / mobile&quot; class=&quot;email&quot;&gt;"  - Unexpected ",", expected one of: "}" , " "
+
+[ 2015-11-04T09:46:41+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 62 "&lt;input type=&quot;text&quot; pattern=&quot;([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?&quot; required=&quot;required&quot; placeholder=&quot;Enter email / mobile&quot; class=&quot;email&quot;&gt;"  - Unexpected ",", expected one of: "}" , " "
+
+[ 2015-11-04T10:30:33+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 60 "&lt;h3&gt;{smarty.const.a[name]}&lt;/h3&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-11-04T10:32:13+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 60 "&lt;h3&gt;{smarty.const.a[name]}&lt;/h3&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-11-04T10:32:14+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 60 "&lt;h3&gt;{smarty.const.a[name]}&lt;/h3&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-11-04T10:32:15+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 60 "&lt;h3&gt;{smarty.const.a[name]}&lt;/h3&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-11-04T10:32:15+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 60 "&lt;h3&gt;{smarty.const.a[name]}&lt;/h3&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-11-04T10:32:16+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 60 "&lt;h3&gt;{smarty.const.a[name]}&lt;/h3&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-11-04T10:32:16+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 60 "&lt;h3&gt;{smarty.const.a[name]}&lt;/h3&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-11-04T10:32:16+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 60 "&lt;h3&gt;{smarty.const.a[name]}&lt;/h3&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-11-04T10:32:27+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 60 "&lt;h3&gt;{a[name]}&lt;/h3&gt;"  - Unexpected "[", expected one of: "}" , " "
+
+[ 2015-11-04T10:32:28+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 60 "&lt;h3&gt;{a[name]}&lt;/h3&gt;"  - Unexpected "[", expected one of: "}" , " "
+
+[ 2015-11-04T10:32:28+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 60 "&lt;h3&gt;{a[name]}&lt;/h3&gt;"  - Unexpected "[", expected one of: "}" , " "
+
+[ 2015-11-04T10:32:57+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 60 "&lt;h3&gt;{a.name}&lt;/h3&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-11-04T10:32:58+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 60 "&lt;h3&gt;{a.name}&lt;/h3&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-11-04T10:32:58+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 60 "&lt;h3&gt;{a.name}&lt;/h3&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-11-04T10:32:58+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 60 "&lt;h3&gt;{a.name}&lt;/h3&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-11-04T10:32:58+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 60 "&lt;h3&gt;{a.name}&lt;/h3&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-11-04T10:32:59+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 60 "&lt;h3&gt;{a.name}&lt;/h3&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-11-04T10:32:59+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 60 "&lt;h3&gt;{a.name}&lt;/h3&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-11-04T10:32:59+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 60 "&lt;h3&gt;{a.name}&lt;/h3&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-11-04T10:32:59+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 60 "&lt;h3&gt;{a.name}&lt;/h3&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-11-04T10:32:59+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 60 "&lt;h3&gt;{a.name}&lt;/h3&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-11-04T10:32:59+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 60 "&lt;h3&gt;{a.name}&lt;/h3&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-11-04T10:33:00+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 60 "&lt;h3&gt;{a.name}&lt;/h3&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-11-04T10:33:00+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 60 "&lt;h3&gt;{a.name}&lt;/h3&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-11-04T10:33:00+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 60 "&lt;h3&gt;{a.name}&lt;/h3&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-11-04T10:33:00+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 60 "&lt;h3&gt;{a.name}&lt;/h3&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-11-04T10:35:34+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 74 "&lt;h4&gt;{$a.catename}-----{a.areaname}&lt;/h4&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-11-04T10:35:46+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 74 "&lt;h4&gt;{$a.catename}&amp;nbsp;{a.areaname}&lt;/h4&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-11-04T10:35:47+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 74 "&lt;h4&gt;{$a.catename}&amp;nbsp;{a.areaname}&lt;/h4&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-11-04T10:35:47+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 74 "&lt;h4&gt;{$a.catename}&amp;nbsp;{a.areaname}&lt;/h4&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-11-04T10:35:53+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 74 "&lt;h4&gt;{$a.catename}{a.areaname}&lt;/h4&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-11-04T10:36:05+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 74 "&lt;h4&gt;{$a.catename}.&quot;------&quot;.{a.areaname}&lt;/h4&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-11-04T10:36:14+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 75 "&lt;p&gt;{a.remark}&lt;/p&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-11-04T10:36:26+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 75 "&lt;p&gt;{a.remark}&lt;/p&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-11-04T10:36:28+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 75 "&lt;p&gt;{a.remark}&lt;/p&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-11-04T10:36:28+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 75 "&lt;p&gt;{a.remark}&lt;/p&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-11-04T10:36:28+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 75 "&lt;p&gt;{a.remark}&lt;/p&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-11-04T10:36:28+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?id=11
+ERR: Syntax Error in template "C:/wamp/www/mymovie/Home/View\Index\show.html"  on line 75 "&lt;p&gt;{a.remark}&lt;/p&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-11-04T15:10:46+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/comment
+ERR: Think\Model:creat方法不存在！
+
+[ 2015-11-04T15:43:10+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/show?text=123
+ERR: 参数错误或者未定义:id
+
+[ 2015-11-04T15:43:45+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\mymovie\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.001000s ]
+SQL: INSERT INTO `comment` (`time`,`userid`,`username`,`movie`) VALUES ('2015-11-04 15:43:45',1,'yzc',11) [ RunTime:0.274016s ]
+SQL: SELECT * FROM `comment` ORDER BY `time` desc LIMIT 0,5   [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: str C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 150 行.
+
+[ 2015-11-04T15:43:48+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\mymovie\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.001000s ]
+SQL: INSERT INTO `comment` (`time`,`userid`,`username`,`movie`) VALUES ('2015-11-04 15:43:48',1,'yzc',11) [ RunTime:0.002000s ]
+SQL: SELECT * FROM `comment` ORDER BY `time` desc LIMIT 0,5   [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: str C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 150 行.
+
+[ 2015-11-04T15:44:10+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\mymovie\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.001000s ]
+SQL: INSERT INTO `comment` (`time`,`userid`,`username`,`movie`) VALUES ('2015-11-04 15:44:10',1,'yzc',11) [ RunTime:0.007001s ]
+SQL: SELECT * FROM `comment` ORDER BY `time` desc LIMIT 0,5   [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: str C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 150 行.
+
+[ 2015-11-04T15:44:52+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\mymovie\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.001000s ]
+SQL: INSERT INTO `comment` (`time`,`userid`,`username`,`movie`) VALUES ('2015-11-04 15:44:52',1,'yzc',11) [ RunTime:0.001000s ]
+SQL: SELECT * FROM `comment` ORDER BY `time` desc LIMIT 0,5   [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: str C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 150 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-04T15:45:52+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\mymovie\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.002000s ]
+SQL: INSERT INTO `comment` (`time`,`userid`,`username`,`movie`) VALUES ('2015-11-04 15:45:52',1,'yzc',11) [ RunTime:0.012001s ]
+SQL: SELECT * FROM `comment` ORDER BY `time` desc LIMIT 0,5   [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: str C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 150 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-04T15:46:12+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\mymovie\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.001000s ]
+SQL: INSERT INTO `comment` (`time`,`userid`,`username`,`movie`) VALUES ('2015-11-04 15:46:11',1,'yzc',11) [ RunTime:0.894051s ]
+SQL: SELECT * FROM `comment` ORDER BY `time` desc LIMIT 0,5   [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: str C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 150 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-04T15:46:29+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\mymovie\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.002000s ]
+SQL: INSERT INTO `comment` (`time`,`userid`,`username`,`movie`) VALUES ('2015-11-04 15:46:29',1,'yzc',11) [ RunTime:0.001000s ]
+SQL: SELECT * FROM `comment` ORDER BY `time` desc LIMIT 0,5   [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: str C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 150 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-04T15:46:32+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\mymovie\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.002000s ]
+SQL: INSERT INTO `comment` (`time`,`userid`,`username`,`movie`) VALUES ('2015-11-04 15:46:32',1,'yzc',11) [ RunTime:0.031002s ]
+SQL: SELECT * FROM `comment` ORDER BY `time` desc LIMIT 0,5   [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: str C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 150 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-04T15:46:58+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\mymovie\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.002000s ]
+SQL: INSERT INTO `comment` (`time`,`userid`,`username`,`movie`) VALUES ('2015-11-04 15:46:58',1,'yzc',11) [ RunTime:0.001000s ]
+SQL: SELECT * FROM `comment` ORDER BY `time` desc LIMIT 0,5   [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: str C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 150 行.
+
+[ 2015-11-04T15:47:03+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\mymovie\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.001000s ]
+SQL: INSERT INTO `comment` (`time`,`userid`,`username`,`movie`) VALUES ('2015-11-04 15:47:02',1,'yzc',11) [ RunTime:0.137008s ]
+SQL: SELECT * FROM `comment` ORDER BY `time` desc LIMIT 0,5   [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: str C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 150 行.
+
+[ 2015-11-04T15:47:19+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\mymovie\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.006000s ]
+SQL: INSERT INTO `comment` (`time`,`userid`,`username`,`movie`) VALUES ('2015-11-04 15:47:19',1,'yzc',11) [ RunTime:0.020002s ]
+SQL: SELECT * FROM `comment` ORDER BY `time` desc LIMIT 0,5   [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: str C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 150 行.
+
+[ 2015-11-04T15:47:55+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\mymovie\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.007000s ]
+SQL: INSERT INTO `comment` (`time`,`userid`,`username`,`movie`) VALUES ('2015-11-04 15:47:55',1,'yzc',11) [ RunTime:0.003001s ]
+SQL: SELECT * FROM `comment` ORDER BY `time` desc LIMIT 0,5   [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: str C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 150 行.
+
+[ 2015-11-04T15:48:27+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\mymovie\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.002000s ]
+SQL: INSERT INTO `comment` (`time`,`userid`,`username`,`movie`) VALUES ('2015-11-04 15:48:26',1,'yzc',11) [ RunTime:0.025002s ]
+SQL: SELECT * FROM `comment` ORDER BY `time` desc LIMIT 0,5   [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: str C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 150 行.
+
+[ 2015-11-04T15:49:01+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\mymovie\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.001000s ]
+SQL: INSERT INTO `comment` (`time`,`userid`,`username`,`movie`) VALUES ('2015-11-04 15:49:01',1,'yzc',11) [ RunTime:0.003000s ]
+SQL: SELECT * FROM `comment` ORDER BY `time` desc LIMIT 0,5   [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: str C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 150 行.
+
+[ 2015-11-04T15:49:40+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\mymovie\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.011001s ]
+SQL: INSERT INTO `comment` (`time`,`userid`,`username`,`movie`) VALUES ('2015-11-04 15:49:40',1,'yzc',11) [ RunTime:0.028001s ]
+SQL: SELECT * FROM `comment` ORDER BY `time` desc LIMIT 0,5   [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: str C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 146 行.
+
+[ 2015-11-04T15:50:21+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\mymovie\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.005000s ]
+SQL: INSERT INTO `comment` (`time`,`userid`,`username`,`movie`) VALUES ('2015-11-04 15:50:21',1,'yzc',11) [ RunTime:0.003000s ]
+SQL: SELECT * FROM `comment` ORDER BY `time` desc LIMIT 0,5   [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: str C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 146 行.
+
+[ 2015-11-04T15:51:36+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\mymovie\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.002001s ]
+SQL: INSERT INTO `comment` (`time`,`userid`,`username`,`movie`) VALUES ('2015-11-04 15:51:36',1,'yzc',11) [ RunTime:0.009000s ]
+SQL: SELECT * FROM `comment` ORDER BY `time` desc LIMIT 0,5   [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: str C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 146 行.
+
+[ 2015-11-04T15:51:59+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\mymovie\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.002000s ]
+SQL: INSERT INTO `comment` (`time`,`userid`,`username`,`movie`) VALUES ('2015-11-04 15:51:59',1,'yzc',11) [ RunTime:0.001000s ]
+SQL: SELECT * FROM `comment` ORDER BY `time` desc LIMIT 0,5   [ RunTime:0.005000s ]
+NOTIC: [8] Undefined variable: str C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 146 行.
+
+[ 2015-11-04T15:52:51+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Array to string conversion C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 133 行.
+
+[ 2015-11-04T15:53:15+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Array to string conversion C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 133 行.
+
+[ 2015-11-04T15:53:21+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Array to string conversion C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 133 行.
+
+[ 2015-11-04T15:53:48+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-04T15:55:09+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: text C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 133 行.
+
+[ 2015-11-04T15:56:18+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: text C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 133 行.
+
+[ 2015-11-04T15:57:01+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-04T15:57:33+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-04T15:57:48+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\mymovie\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.026001s ]
+SQL: INSERT INTO `comment` (`text`,`time`,`userid`,`username`,`movie`) VALUES ('123','2015-11-04 15:57:48',1,'yzc',11) [ RunTime:0.019001s ]
+SQL: SELECT * FROM `comment` ORDER BY `time` desc LIMIT 0,5   [ RunTime:0.002000s ]
+NOTIC: [8] Undefined variable: str C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 146 行.
+
+[ 2015-11-04T15:58:17+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\mymovie\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.014000s ]
+SQL: INSERT INTO `comment` (`text`,`time`,`userid`,`username`,`movie`) VALUES ('这是第一条评论','2015-11-04 15:58:17',1,'yzc',11) [ RunTime:0.014001s ]
+SQL: SELECT * FROM `comment` ORDER BY `time` desc LIMIT 0,5   [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: str C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 146 行.
+
+[ 2015-11-04T15:59:11+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\mymovie\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.018001s ]
+SQL: INSERT INTO `comment` (`text`,`time`,`userid`,`username`,`movie`) VALUES ('这是第二条评论','2015-11-04 15:59:10',1,'yzc',11) [ RunTime:0.004001s ]
+SQL: SELECT * FROM `comment` ORDER BY `time` desc LIMIT 0,5   [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: str C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 146 行.
+
+[ 2015-11-04T16:00:44+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\mymovie\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.004000s ]
+SQL: INSERT INTO `comment` (`text`,`time`,`userid`,`username`,`movie`) VALUES ('这是第三条评论','2015-11-04 16:00:44',1,'yzc',11) [ RunTime:0.002000s ]
+SQL: SELECT * FROM `comment` ORDER BY `time` desc LIMIT 0,5   [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: str C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 146 行.
+
+[ 2015-11-04T16:01:02+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\mymovie\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.002000s ]
+SQL: INSERT INTO `comment` (`text`,`time`,`userid`,`username`,`movie`) VALUES ('这是第四条评论','2015-11-04 16:01:02',1,'yzc',11) [ RunTime:0.002000s ]
+SQL: SELECT * FROM `comment` ORDER BY `time` desc LIMIT 0,5   [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: str C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 146 行.
+
+[ 2015-11-04T16:18:56+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\mymovie\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.002000s ]
+SQL: INSERT INTO `comment` (`text`,`time`,`userid`,`username`,`movie`) VALUES ('这是第五条评论','2015-11-04 16:18:56',1,'yzc',11) [ RunTime:0.012000s ]
+SQL: SELECT * FROM `comment` ORDER BY `time` desc LIMIT 0,5   [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: str C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 151 行.
+
+[ 2015-11-04T16:19:41+08:00 ] 127.0.0.1 /mymovie/index.php/Home/Index/comment
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 5 行.
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\mymovie\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.006000s ]
+SQL: INSERT INTO `comment` (`text`,`time`,`userid`,`username`,`movie`) VALUES ('这是第六条评论','2015-11-04 16:19:41',1,'yzc',11) [ RunTime:0.003001s ]
+SQL: SELECT * FROM `comment` WHERE ( movie=11 ) ORDER BY `time` desc LIMIT 0,5   [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: str C:\wamp\www\mymovie\Home\Controller\IndexController.class.php 第 151 行.
+

@@ -1,0 +1,57 @@
+[ 2016-03-04T13:56:09+08:00 ] 118.193.198.196 /index.php/Home/index/getuserinfo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000052s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000492s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000038s ]
+
+[ 2016-03-04T13:56:13+08:00 ] 118.193.198.196 /index.php/Home/index/getuserinfo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000087s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000945s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000059s ]
+
+[ 2016-03-04T16:32:13+08:00 ] 118.193.198.196 /index.php/Home/index/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000439s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000036s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\localuser\ftp483451\Web\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `myweb_user` [ RunTime:0.002796s ]
+NOTIC: [8] Undefined index: state D:\localuser\ftp483451\Web\Home\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Use of undefined constant b - assumed 'b' D:\localuser\ftp483451\Web\Home\Controller\IndexController.class.php 第 58 行.
+SQL: INSERT INTO `myweb_user` (`reg_time`,`username`,`email`,`password`) VALUES ('2016-03-04 16:32:13','猫猫er','1183223511@qq.com','xiaolei@94024') [ RunTime:0.001448s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000046s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000105s ]
+
+[ 2016-03-04T16:36:13+08:00 ] 118.193.198.196 /index.php/Home/index/getuserinfo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000729s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000057s ]
+
+[ 2016-03-04T16:36:31+08:00 ] 118.193.198.196 /index.php/Home/index/getuserinfo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000437s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000035s ]
+
+[ 2016-03-04T16:37:47+08:00 ] 118.193.198.196 /index.php/Home/index/getuserinfo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000052s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000468s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000039s ]
+
+[ 2016-03-04T17:05:35+08:00 ] 118.193.198.196 /index.php/Home/index/getuserinfo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000439s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000035s ]
+

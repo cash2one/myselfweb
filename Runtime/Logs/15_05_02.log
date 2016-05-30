@@ -1,0 +1,402 @@
+[ 2015-05-02T16:35:58+08:00 ] ::1 /movie/i_movie/index.php/Admin/Manager/login
+ERR: 无法加载控制器:Manager
+
+[ 2015-05-02T16:38:48+08:00 ] ::1 /movie/i_movie/index.php/Admin/Manager/login
+ERR: 无法加载控制器:Manager
+
+[ 2015-05-02T16:38:50+08:00 ] ::1 /movie/i_movie/index.php/Admin/Manager/login
+ERR: 无法加载控制器:Manager
+
+[ 2015-05-02T16:39:00+08:00 ] ::1 /movie/i_movie/index.php/Admin/Manager/login
+ERR: 无法加载控制器:Manager
+
+[ 2015-05-02T16:40:06+08:00 ] ::1 /movie/i_movie/index.php/Admin/Manager/login
+ERR: 无法加载控制器:Manager
+
+[ 2015-05-02T16:40:09+08:00 ] ::1 /movie/i_movie/index.php/Admin/Manager/login
+ERR: 无法加载控制器:Manager
+
+[ 2015-05-02T16:40:10+08:00 ] ::1 /movie/i_movie/index.php/Admin/Manager/login
+ERR: 无法加载控制器:Manager
+
+[ 2015-05-02T16:40:10+08:00 ] ::1 /movie/i_movie/index.php/Admin/Manager/login
+ERR: 无法加载控制器:Manager
+
+[ 2015-05-02T16:40:48+08:00 ] ::1 /movie/i_movie/index.php/Admin/Manager/login
+ERR: 无法加载控制器:Manager
+
+[ 2015-05-02T16:40:49+08:00 ] ::1 /movie/i_movie/index.php/Admin/Manager/login
+ERR: 无法加载控制器:Manager
+
+[ 2015-05-02T16:40:53+08:00 ] ::1 /movie/i_movie/index.php/Admin/Manager/login
+ERR: 无法加载控制器:Manager
+
+[ 2015-05-02T16:40:53+08:00 ] ::1 /movie/i_movie/index.php/Admin/Manager/login
+ERR: 无法加载控制器:Manager
+
+[ 2015-05-02T16:42:30+08:00 ] ::1 /movie/i_movie/index.php/Admin/Manager/login
+ERR: 无法加载控制器:Manager
+
+[ 2015-05-02T16:42:30+08:00 ] ::1 /movie/i_movie/index.php/Admin/Manager/login
+ERR: 无法加载控制器:Manager
+
+[ 2015-05-02T16:42:31+08:00 ] ::1 /movie/i_movie/index.php/Admin/Manager/login
+ERR: 无法加载控制器:Manager
+
+[ 2015-05-02T16:42:31+08:00 ] ::1 /movie/i_movie/index.php/Admin/Manager/login
+ERR: 无法加载控制器:Manager
+
+[ 2015-05-02T16:42:32+08:00 ] ::1 /movie/i_movie/index.php/Admin/Manager/login
+ERR: 无法加载控制器:Manager
+
+[ 2015-05-02T17:25:42+08:00 ] ::1 /movie/i_movie/index.php/Admin/Manager/
+ERR: 非法操作:index
+
+[ 2015-05-02T18:13:57+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 791 "onfocus=&quot;if(this.value==&amp;#39;请在这里搜索！&amp;#39;){this.value=&amp;#39;&amp;#39;;}&quot;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-05-02T18:15:10+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 791 "onfocus=&quot;if(this.value==&amp;#39;请在这里搜索！&amp;#39;){this.value=&amp;#39;&amp;#39;;}&quot;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-05-02T18:15:15+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 791 "onfocus=&quot;if(this.value==&amp;#39;请在这里搜索！&amp;#39;){this.value=&amp;#39;&amp;#39;;}&quot;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-05-02T18:15:32+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 791 "onfocus=&quot;if(this.value==&amp;#39;请在这里搜索！&amp;#39;){this.value=&amp;#39;&amp;#39;;}&quot;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-05-02T18:15:33+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 791 "onfocus=&quot;if(this.value==&amp;#39;请在这里搜索！&amp;#39;){this.value=&amp;#39;&amp;#39;;}&quot;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-05-02T18:15:34+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 791 "onfocus=&quot;if(this.value==&amp;#39;请在这里搜索！&amp;#39;){this.value=&amp;#39;&amp;#39;;}&quot;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-05-02T18:17:39+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 791 "onfocus=&quot;if(this.value==&amp;#39;请在这里搜索！&amp;#39;){this.value=&amp;#39;&amp;#39;;}&quot;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-05-02T18:17:40+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 791 "onfocus=&quot;if(this.value==&amp;#39;请在这里搜索！&amp;#39;){this.value=&amp;#39;&amp;#39;;}&quot;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-05-02T18:17:41+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 791 "onfocus=&quot;if(this.value==&amp;#39;请在这里搜索！&amp;#39;){this.value=&amp;#39;&amp;#39;;}&quot;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-05-02T18:21:39+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 789 "onfocus=&quot;if(this.value==&amp;#39;请在这里搜索！&amp;#39;){this.value=&amp;#39;&amp;#39;;}&quot;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-05-02T18:21:41+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 789 "onfocus=&quot;if(this.value==&amp;#39;请在这里搜索！&amp;#39;){this.value=&amp;#39;&amp;#39;;}&quot;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-05-02T18:21:41+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 789 "onfocus=&quot;if(this.value==&amp;#39;请在这里搜索！&amp;#39;){this.value=&amp;#39;&amp;#39;;}&quot;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-05-02T18:27:03+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 4344 "onclick=&quot;if(confirm(window.bShare.iL8n.confirmClose)){var date=new Date();date.setTime(date.getTime()+1800000);document.cookie=&amp;#39;bshare_off=true;expires=&amp;#39;+date.toGMTString()+&amp;#39;;path=/&amp;#39;;document.getElementById(&amp;#39;bshareF&amp;#39;).style.display=&amp;#39;none&amp;#39;;}return false;&quot;&gt;X&lt;/a&gt;"  - Unexpected ";", expected one of: "}" , " "
+
+[ 2015-05-02T18:27:45+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/%E5%BD%B1%E8%A7%86%E5%A4%A7%E5%85%A8%20-%E6%97%A0%E5%B9%BF%E5%91%8A%E5%9C%A8%E7%BA%BF%E4%BA%91%E7%82%B9%E6%92%AD%20-%E8%BF%85%E9%9B%B7%E7%94%B5%E5%BD%B1%E4%B8%8B%E8%BD%BD_files/head46860.js
+ERR: 非法操作:影视大全 -无广告在线云点播 -迅雷电影下载_files
+
+[ 2015-05-02T18:27:45+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/%E5%BD%B1%E8%A7%86%E5%A4%A7%E5%85%A8%20-%E6%97%A0%E5%B9%BF%E5%91%8A%E5%9C%A8%E7%BA%BF%E4%BA%91%E7%82%B9%E6%92%AD%20-%E8%BF%85%E9%9B%B7%E7%94%B5%E5%BD%B1%E4%B8%8B%E8%BD%BD_files/index01.js
+ERR: 非法操作:影视大全 -无广告在线云点播 -迅雷电影下载_files
+
+[ 2015-05-02T18:27:45+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/%E5%BD%B1%E8%A7%86%E5%A4%A7%E5%85%A8%20-%E6%97%A0%E5%B9%BF%E5%91%8A%E5%9C%A8%E7%BA%BF%E4%BA%91%E7%82%B9%E6%92%AD%20-%E8%BF%85%E9%9B%B7%E7%94%B5%E5%BD%B1%E4%B8%8B%E8%BD%BD_files/indextop728.js
+ERR: 非法操作:影视大全 -无广告在线云点播 -迅雷电影下载_files
+
+[ 2015-05-02T18:27:46+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/%E5%BD%B1%E8%A7%86%E5%A4%A7%E5%85%A8%20-%E6%97%A0%E5%B9%BF%E5%91%8A%E5%9C%A8%E7%BA%BF%E4%BA%91%E7%82%B9%E6%92%AD%20-%E8%BF%85%E9%9B%B7%E7%94%B5%E5%BD%B1%E4%B8%8B%E8%BD%BD_files/index02.js
+ERR: 非法操作:影视大全 -无广告在线云点播 -迅雷电影下载_files
+
+[ 2015-05-02T18:27:46+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/%E5%BD%B1%E8%A7%86%E5%A4%A7%E5%85%A8%20-%E6%97%A0%E5%B9%BF%E5%91%8A%E5%9C%A8%E7%BA%BF%E4%BA%91%E7%82%B9%E6%92%AD%20-%E8%BF%85%E9%9B%B7%E7%94%B5%E5%BD%B1%E4%B8%8B%E8%BD%BD_files/tongji.js
+ERR: 非法操作:影视大全 -无广告在线云点播 -迅雷电影下载_files
+
+[ 2015-05-02T18:27:46+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/%E5%BD%B1%E8%A7%86%E5%A4%A7%E5%85%A8%20-%E6%97%A0%E5%B9%BF%E5%91%8A%E5%9C%A8%E7%BA%BF%E4%BA%91%E7%82%B9%E6%92%AD%20-%E8%BF%85%E9%9B%B7%E7%94%B5%E5%BD%B1%E4%B8%8B%E8%BD%BD_files/index03.js
+ERR: 非法操作:影视大全 -无广告在线云点播 -迅雷电影下载_files
+
+[ 2015-05-02T18:27:46+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/%E5%BD%B1%E8%A7%86%E5%A4%A7%E5%85%A8%20-%E6%97%A0%E5%B9%BF%E5%91%8A%E5%9C%A8%E7%BA%BF%E4%BA%91%E7%82%B9%E6%92%AD%20-%E8%BF%85%E9%9B%B7%E7%94%B5%E5%BD%B1%E4%B8%8B%E8%BD%BD_files/index.js
+ERR: 非法操作:影视大全 -无广告在线云点播 -迅雷电影下载_files
+
+[ 2015-05-02T18:27:46+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/%E5%BD%B1%E8%A7%86%E5%A4%A7%E5%85%A8%20-%E6%97%A0%E5%B9%BF%E5%91%8A%E5%9C%A8%E7%BA%BF%E4%BA%91%E7%82%B9%E6%92%AD%20-%E8%BF%85%E9%9B%B7%E7%94%B5%E5%BD%B1%E4%B8%8B%E8%BD%BD_files/buttonLite.js
+ERR: 非法操作:影视大全 -无广告在线云点播 -迅雷电影下载_files
+
+[ 2015-05-02T18:27:48+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/%E5%BD%B1%E8%A7%86%E5%A4%A7%E5%85%A8%20-%E6%97%A0%E5%B9%BF%E5%91%8A%E5%9C%A8%E7%BA%BF%E4%BA%91%E7%82%B9%E6%92%AD%20-%E8%BF%85%E9%9B%B7%E7%94%B5%E5%BD%B1%E4%B8%8B%E8%BD%BD_files/head46860.js
+ERR: 非法操作:影视大全 -无广告在线云点播 -迅雷电影下载_files
+
+[ 2015-05-02T18:27:48+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/%E5%BD%B1%E8%A7%86%E5%A4%A7%E5%85%A8%20-%E6%97%A0%E5%B9%BF%E5%91%8A%E5%9C%A8%E7%BA%BF%E4%BA%91%E7%82%B9%E6%92%AD%20-%E8%BF%85%E9%9B%B7%E7%94%B5%E5%BD%B1%E4%B8%8B%E8%BD%BD_files/index01.js
+ERR: 非法操作:影视大全 -无广告在线云点播 -迅雷电影下载_files
+
+[ 2015-05-02T18:27:48+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/%E5%BD%B1%E8%A7%86%E5%A4%A7%E5%85%A8%20-%E6%97%A0%E5%B9%BF%E5%91%8A%E5%9C%A8%E7%BA%BF%E4%BA%91%E7%82%B9%E6%92%AD%20-%E8%BF%85%E9%9B%B7%E7%94%B5%E5%BD%B1%E4%B8%8B%E8%BD%BD_files/indextop728.js
+ERR: 非法操作:影视大全 -无广告在线云点播 -迅雷电影下载_files
+
+[ 2015-05-02T18:27:49+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/%E5%BD%B1%E8%A7%86%E5%A4%A7%E5%85%A8%20-%E6%97%A0%E5%B9%BF%E5%91%8A%E5%9C%A8%E7%BA%BF%E4%BA%91%E7%82%B9%E6%92%AD%20-%E8%BF%85%E9%9B%B7%E7%94%B5%E5%BD%B1%E4%B8%8B%E8%BD%BD_files/index02.js
+ERR: 非法操作:影视大全 -无广告在线云点播 -迅雷电影下载_files
+
+[ 2015-05-02T18:27:50+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/%E5%BD%B1%E8%A7%86%E5%A4%A7%E5%85%A8%20-%E6%97%A0%E5%B9%BF%E5%91%8A%E5%9C%A8%E7%BA%BF%E4%BA%91%E7%82%B9%E6%92%AD%20-%E8%BF%85%E9%9B%B7%E7%94%B5%E5%BD%B1%E4%B8%8B%E8%BD%BD_files/index03.js
+ERR: 非法操作:影视大全 -无广告在线云点播 -迅雷电影下载_files
+
+[ 2015-05-02T18:27:51+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/%E5%BD%B1%E8%A7%86%E5%A4%A7%E5%85%A8%20-%E6%97%A0%E5%B9%BF%E5%91%8A%E5%9C%A8%E7%BA%BF%E4%BA%91%E7%82%B9%E6%92%AD%20-%E8%BF%85%E9%9B%B7%E7%94%B5%E5%BD%B1%E4%B8%8B%E8%BD%BD_files/tongji.js
+ERR: 非法操作:影视大全 -无广告在线云点播 -迅雷电影下载_files
+
+[ 2015-05-02T18:27:51+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/%E5%BD%B1%E8%A7%86%E5%A4%A7%E5%85%A8%20-%E6%97%A0%E5%B9%BF%E5%91%8A%E5%9C%A8%E7%BA%BF%E4%BA%91%E7%82%B9%E6%92%AD%20-%E8%BF%85%E9%9B%B7%E7%94%B5%E5%BD%B1%E4%B8%8B%E8%BD%BD_files/buttonLite.js
+ERR: 非法操作:影视大全 -无广告在线云点播 -迅雷电影下载_files
+
+[ 2015-05-02T18:27:51+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/%E5%BD%B1%E8%A7%86%E5%A4%A7%E5%85%A8%20-%E6%97%A0%E5%B9%BF%E5%91%8A%E5%9C%A8%E7%BA%BF%E4%BA%91%E7%82%B9%E6%92%AD%20-%E8%BF%85%E9%9B%B7%E7%94%B5%E5%BD%B1%E4%B8%8B%E8%BD%BD_files/index.js
+ERR: 非法操作:影视大全 -无广告在线云点播 -迅雷电影下载_files
+
+[ 2015-05-02T18:29:25+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/%E5%BD%B1%E8%A7%86%E5%A4%A7%E5%85%A8%20-%E6%97%A0%E5%B9%BF%E5%91%8A%E5%9C%A8%E7%BA%BF%E4%BA%91%E7%82%B9%E6%92%AD%20-%E8%BF%85%E9%9B%B7%E7%94%B5%E5%BD%B1%E4%B8%8B%E8%BD%BD_files/index01.js
+ERR: 非法操作:影视大全 -无广告在线云点播 -迅雷电影下载_files
+
+[ 2015-05-02T18:29:25+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/%E5%BD%B1%E8%A7%86%E5%A4%A7%E5%85%A8%20-%E6%97%A0%E5%B9%BF%E5%91%8A%E5%9C%A8%E7%BA%BF%E4%BA%91%E7%82%B9%E6%92%AD%20-%E8%BF%85%E9%9B%B7%E7%94%B5%E5%BD%B1%E4%B8%8B%E8%BD%BD_files/indextop728.js
+ERR: 非法操作:影视大全 -无广告在线云点播 -迅雷电影下载_files
+
+[ 2015-05-02T18:29:25+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/%E5%BD%B1%E8%A7%86%E5%A4%A7%E5%85%A8%20-%E6%97%A0%E5%B9%BF%E5%91%8A%E5%9C%A8%E7%BA%BF%E4%BA%91%E7%82%B9%E6%92%AD%20-%E8%BF%85%E9%9B%B7%E7%94%B5%E5%BD%B1%E4%B8%8B%E8%BD%BD_files/index02.js
+ERR: 非法操作:影视大全 -无广告在线云点播 -迅雷电影下载_files
+
+[ 2015-05-02T18:29:26+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/%E5%BD%B1%E8%A7%86%E5%A4%A7%E5%85%A8%20-%E6%97%A0%E5%B9%BF%E5%91%8A%E5%9C%A8%E7%BA%BF%E4%BA%91%E7%82%B9%E6%92%AD%20-%E8%BF%85%E9%9B%B7%E7%94%B5%E5%BD%B1%E4%B8%8B%E8%BD%BD_files/index03.js
+ERR: 非法操作:影视大全 -无广告在线云点播 -迅雷电影下载_files
+
+[ 2015-05-02T18:29:26+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/%E5%BD%B1%E8%A7%86%E5%A4%A7%E5%85%A8%20-%E6%97%A0%E5%B9%BF%E5%91%8A%E5%9C%A8%E7%BA%BF%E4%BA%91%E7%82%B9%E6%92%AD%20-%E8%BF%85%E9%9B%B7%E7%94%B5%E5%BD%B1%E4%B8%8B%E8%BD%BD_files/tongji.js
+ERR: 非法操作:影视大全 -无广告在线云点播 -迅雷电影下载_files
+
+[ 2015-05-02T18:29:26+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/%E5%BD%B1%E8%A7%86%E5%A4%A7%E5%85%A8%20-%E6%97%A0%E5%B9%BF%E5%91%8A%E5%9C%A8%E7%BA%BF%E4%BA%91%E7%82%B9%E6%92%AD%20-%E8%BF%85%E9%9B%B7%E7%94%B5%E5%BD%B1%E4%B8%8B%E8%BD%BD_files/index.js
+ERR: 非法操作:影视大全 -无广告在线云点播 -迅雷电影下载_files
+
+[ 2015-05-02T18:29:26+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/%E5%BD%B1%E8%A7%86%E5%A4%A7%E5%85%A8%20-%E6%97%A0%E5%B9%BF%E5%91%8A%E5%9C%A8%E7%BA%BF%E4%BA%91%E7%82%B9%E6%92%AD%20-%E8%BF%85%E9%9B%B7%E7%94%B5%E5%BD%B1%E4%B8%8B%E8%BD%BD_files/buttonLite.js
+ERR: 非法操作:影视大全 -无广告在线云点播 -迅雷电影下载_files
+
+[ 2015-05-02T18:29:28+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/%E5%BD%B1%E8%A7%86%E5%A4%A7%E5%85%A8%20-%E6%97%A0%E5%B9%BF%E5%91%8A%E5%9C%A8%E7%BA%BF%E4%BA%91%E7%82%B9%E6%92%AD%20-%E8%BF%85%E9%9B%B7%E7%94%B5%E5%BD%B1%E4%B8%8B%E8%BD%BD_files/index01.js
+ERR: 非法操作:影视大全 -无广告在线云点播 -迅雷电影下载_files
+
+[ 2015-05-02T18:29:28+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/%E5%BD%B1%E8%A7%86%E5%A4%A7%E5%85%A8%20-%E6%97%A0%E5%B9%BF%E5%91%8A%E5%9C%A8%E7%BA%BF%E4%BA%91%E7%82%B9%E6%92%AD%20-%E8%BF%85%E9%9B%B7%E7%94%B5%E5%BD%B1%E4%B8%8B%E8%BD%BD_files/indextop728.js
+ERR: 非法操作:影视大全 -无广告在线云点播 -迅雷电影下载_files
+
+[ 2015-05-02T18:29:29+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/%E5%BD%B1%E8%A7%86%E5%A4%A7%E5%85%A8%20-%E6%97%A0%E5%B9%BF%E5%91%8A%E5%9C%A8%E7%BA%BF%E4%BA%91%E7%82%B9%E6%92%AD%20-%E8%BF%85%E9%9B%B7%E7%94%B5%E5%BD%B1%E4%B8%8B%E8%BD%BD_files/index02.js
+ERR: 非法操作:影视大全 -无广告在线云点播 -迅雷电影下载_files
+
+[ 2015-05-02T18:29:30+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/%E5%BD%B1%E8%A7%86%E5%A4%A7%E5%85%A8%20-%E6%97%A0%E5%B9%BF%E5%91%8A%E5%9C%A8%E7%BA%BF%E4%BA%91%E7%82%B9%E6%92%AD%20-%E8%BF%85%E9%9B%B7%E7%94%B5%E5%BD%B1%E4%B8%8B%E8%BD%BD_files/index03.js
+ERR: 非法操作:影视大全 -无广告在线云点播 -迅雷电影下载_files
+
+[ 2015-05-02T18:29:31+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/%E5%BD%B1%E8%A7%86%E5%A4%A7%E5%85%A8%20-%E6%97%A0%E5%B9%BF%E5%91%8A%E5%9C%A8%E7%BA%BF%E4%BA%91%E7%82%B9%E6%92%AD%20-%E8%BF%85%E9%9B%B7%E7%94%B5%E5%BD%B1%E4%B8%8B%E8%BD%BD_files/tongji.js
+ERR: 非法操作:影视大全 -无广告在线云点播 -迅雷电影下载_files
+
+[ 2015-05-02T18:29:31+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/%E5%BD%B1%E8%A7%86%E5%A4%A7%E5%85%A8%20-%E6%97%A0%E5%B9%BF%E5%91%8A%E5%9C%A8%E7%BA%BF%E4%BA%91%E7%82%B9%E6%92%AD%20-%E8%BF%85%E9%9B%B7%E7%94%B5%E5%BD%B1%E4%B8%8B%E8%BD%BD_files/buttonLite.js
+ERR: 非法操作:影视大全 -无广告在线云点播 -迅雷电影下载_files
+
+[ 2015-05-02T18:29:31+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/%E5%BD%B1%E8%A7%86%E5%A4%A7%E5%85%A8%20-%E6%97%A0%E5%B9%BF%E5%91%8A%E5%9C%A8%E7%BA%BF%E4%BA%91%E7%82%B9%E6%92%AD%20-%E8%BF%85%E9%9B%B7%E7%94%B5%E5%BD%B1%E4%B8%8B%E8%BD%BD_files/index.js
+ERR: 非法操作:影视大全 -无广告在线云点播 -迅雷电影下载_files
+
+[ 2015-05-02T18:40:47+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 836 "onblur=&quot;if(this.value==''){this.value='请在这里搜索！';};&quot;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-05-02T18:45:25+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 16 "href=&quot;{$smarty.const.Home_CSSstyle.css&quot;&gt;"  - Unexpected """, expected one of: "}" , " "
+
+[ 2015-05-02T18:52:10+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 794 "&lt;div class=&quot;ser&quot;&gt;&lt;form target=&quot;_blank&quot; action=&quot;/index.php?s=vod-search&quot; method=&quot;post&quot; name=&quot;ffsearch&quot; id=&quot;formsearch&quot;&gt;&lt;input type=&quot;text&quot; onblur=&quot;if(this.value==''){this.value='请在这里搜索！';};&quot; onfocus=&quot;if(this.value=='请在这里搜索！'){this.value='';}&quot; value=&quot;请在这里搜索！&quot; class=&quot;search-input&quot; name=&quot;wd&quot; id=&quot;kw&quot;&gt;&lt;input type=&quot;submit&quot; value=&quot;搜 索&quot; class=&quot;sub&quot; name=&quot;submit&quot;&gt;&lt;/form&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&quot;/?s=vod-search-wd-飓风营救3.html&quot;&gt;飓风营救3&lt;/a&gt; &lt;a href=&quot;/?s=vod-search-wd-冷笑话.html&quot;&gt;冷笑话&lt;/a&gt; &lt;a href=&quot;/?s=vod-search-wd-重返二十岁.html&quot;&gt;重返二十岁&lt;/a&gt; &lt;a href=&quot;/?s=vod-search-wd-微爱之渐入佳境.html&quot;&gt;微爱之渐入佳境&lt;/a&gt;&lt;/p&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-05-02T20:34:48+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 4 "&lt;style index=&quot;index&quot; id=&quot;css_index&quot;&gt;html,body{height:100%}html{overflow-y:auto}#wrapper{position:relative;_position:;min-height:100%}#head{padding-bottom:100px;text-align:center;*z-index:1}#ftCon{height:100px;position:absolute;bottom:44px;text-align:center;width:100%;margin:0 auto;z-index:0;overflow:hidden}#ftConw{width:720px;margin:0 auto}body{font:12px arial;text-align:;background:#fff}body,p,form,ul,li{margin:0;padding:0;list-style:none}body,form,#fm{position:relative}td{text-align:left}img{border:0}a{color:#00c}a:active{color:#f60}.bg{background-image:url(https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/img/icons_2df80e9d.png);background-repeat:no-repeat;_background-image:url(https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/img/icons_b5457670.gif)}.bg_tuiguang_browser{width:16px;height:16px;background-position:-600px 0;display:inline-block;vertical-align:text-bottom;font-style:normal;overflow:hidden;margin-right:5px}.bg_tuiguang_browser_big{width:56px;height:56px;position:absolute;left:10px;top:10px;background-position:-600px -24px}"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2015-05-02T20:35:19+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 1038 "&lt;!--[if lte IE 8]&gt;&lt;style index=&quot;index&quot; &gt;#head{height:480px\9}.s_form{top:260px}&lt;/style&gt;&lt;![endif]--&gt;"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2015-05-02T20:35:48+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 1350 "&lt;script&gt;function h(obj){obj.style.behavior='url(#default#homepage)';var a = obj.setHomePage('//www.baidu.com/');}&lt;/script&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-05-02T20:36:28+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 1385 "&lt;script&gt;if (/Chrome\/37.0.2062.94/i.test(navigator.userAgent) &amp;&amp; (/(windows 7)|(windows nt 6.1)/i.test(navigator.userAgent))) {var _chrome_37_fix = document.createElement(&quot;style&quot;); _chrome_37_fix.type=&quot;text/css&quot;;_chrome_37_fix.setAttribute(&quot;data-for&quot;,&quot;result&quot;);_chrome_37_fix.innerHTML = &quot;.t,.f16,#kw,.s_ipt,.c-title,.c-title-size,.to_zhidao,.to_tieba,.to_zhidao_bottom{font-size:15px;} .ec-hospital-info-main h2,.ad-widget-gx_sck-ylzx-doctor-info h2,.ec-card-main h2,.ad-widget-h1 h2,.ad-widget-title h2,.ad-widget-small-head h2,.ad-widget-small-head h2 a,.ad-widget-header .ec-figcaption h2{font-size: 15px !important;}&quot;;document.getElementsByTagName(&quot;head&quot;)[0].appendChild(_chrome_37_fix); }&lt;/script&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-05-02T20:36:54+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 1387 "&lt;script&gt;if(window.bds&amp;&amp;bds.util&amp;&amp;bds.util.setContainerWidth){bds.util.setContainerWidth();}&lt;/script&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-05-02T20:37:06+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 1398 "onmousedown=&quot;return c({'fm':'tab','tab':'logo'})&quot;&gt;&lt;img"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2015-05-02T20:37:38+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 1459 "wdfield=&quot;word&quot; onmousedown=&quot;return c({'fm':'tab','tab':'news'})&quot;&gt;新闻&lt;/a&gt;&lt;a"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2015-05-02T20:38:48+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 1459 "wdfield=&quot;word&quot; onmousedown=&quot;return c({'fm':'tab','tab':'news'})&quot;&gt;新闻&lt;/a&gt;&lt;a"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2015-05-02T20:38:50+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 1459 "wdfield=&quot;word&quot; onmousedown=&quot;return c({'fm':'tab','tab':'news'})&quot;&gt;新闻&lt;/a&gt;&lt;a"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2015-05-02T20:39:03+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 1461 "onmousedown=&quot;return ns_c({'fm':'behs','tab':'homepage','pos':0})&quot;&gt;把百度设为主页&lt;/a&gt;&lt;a"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2015-05-02T20:39:37+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 1462 "&lt;script&gt;var bds={se:{},su:{urdata:[],urSendClick:function(){}},util:{},use:{},comm : {domain:&quot;http://www.baidu.com&quot;,ubsurl : &quot;https://sp0.baidu.com/5bU_dTmfKgQFm2e88IuM_a/w.gif&quot;,tn:&quot;baidu&quot;,queryEnc:&quot;&quot;,queryId:&quot;&quot;,inter:&quot;&quot;,templateName:&quot;baidu&quot;,sugHost : &quot;https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su&quot;,query : &quot;&quot;,qid : &quot;893d3b6400117bd2&quot;,cid : &quot;0&quot;,sid : &quot;13264_13422_1432_13511_13074_12825_12868_13320_12692_13692_10562_12722_13477_13761_13257_13781_12144_13086_8498&quot;,indexSid : &quot;13264_13422_1432_13511_13074_12825_12868_13320_12692_13692_10562_12722_13477_13761_13257_13781_12144_13086_8498&quot;,stoken : &quot;&quot;,serverTime : &quot;1430569838&quot;,user : &quot;&quot;,username : &quot;&quot;,userid : &quot;0&quot;,isBaixiaoduOn : &quot;&quot;,loginAction : [],useFavo : &quot;&quot;,pinyin : &quot;&quot;,favoOn : &quot;&quot;,cookie : {&quot;BDSVRTM&quot;:&quot;0&quot;,&quot;BD_HOME&quot;:&quot;0&quot;,&quot;H_PS_PSSID&quot;:&quot;12633_13637_1429_13349_13463_13074_12826_12868_13321_12691_13692_8502_12722_13202_13256_13781_11997_13086_8498&quot;,&quot;BD_LAST_QID&quot;:&quot;14707589955774957810&quot;},curResultNum:&quot;0&quot;,rightResultExist:false,protectNum:0,zxlNum:0,pageNum:1,pageSize:10,newindex:0,async:2,maxPreloadThread:5,maxPreloadTimes:10,preloadMouseMoveDistance:5,switchAddMask:false,isDebug:false,ishome : 1,flagTranslateResult:0,globalLogFlag:0,encTn:'79ceCdkQam16oXiocSJhJfFK/8jx9JmU9H8PA54KAah7/nrUCwQbZKVrpb8'}};var name,navigate,al_arr=[];var selfOpen = window.open;eval(&quot;var open = selfOpen;&quot;);var isIE=navigator.userAgent.indexOf(&quot;MSIE&quot;)!=-1&amp;&amp;!window.opera;var E = bds.ecom= {};bds.se.mon = {'loadedItems':[],'load':function(){},'srvt':-1};try {bds.se.mon.srvt = parseInt(document.cookie.match(new RegExp(&quot;(^| )BDSVRTM=([^;]*)(;|$)&quot;))[2]);document.cookie=&quot;BDSVRTM=;expires=Sat, 01 Jan 2000 00:00:00 GMT&quot;; }catch(e){}var bdUser = bds.comm.user?bds.comm.user:null,bdQuery = bds.comm.query,bdUseFavo = bds.comm.useFavo,bdFavoOn = bds.comm.favoOn,bdCid = bds.comm.cid,bdSid = bds.comm.sid,bdServerTime = bds.comm.serverTime,bdQid = bds.comm.queryId,bdstoken = bds.comm.stoken,login_success = [];bds.util.domain = (function(){var list = {&quot;vse.baidu.com&quot;:&quot;https://sp3.baidu.com/6qUDsjip0QIZ8tyhnq&quot;,&quot;hdpreload.baidu.com&quot;:&quot;https://sp0.baidu.com/7LAWfjuc_wUI8t7jm9iCKT-xh_&quot;,&quot;lcr.open.baidu.com&quot;:&quot;https://sp0.baidu.com/8LUYsjW91Qh3otqbppnN2DJv&quot;,&quot;kankan.baidu.com&quot;:&quot;https://sp3.baidu.com/7bM1dzeaKgQFm2e88IuM_a&quot;,&quot;xapp.baidu.com&quot;:&quot;https://sp2.baidu.com/yLMWfHSm2Q5IlBGlnYG&quot;,&quot;dr.dh.baidu.com&quot;:&quot;https://sp0.baidu.com/-KZ1aD0a2gU2pMbgoY3K&quot;,&quot;xiaodu.baidu.com&quot;:&quot;https://sp0.baidu.com/yLsHczq6KgQFm2e88IuM_a&quot;,&quot;s1.bdstatic.com&quot;:&quot;https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K&quot;,&quot;olime.baidu.com&quot;:&quot;https://sp0.baidu.com/8bg4cTva2gU2pMbgoY3K&quot;,&quot;app.baidu.com&quot;:&quot;https://sp2.baidu.com/9_QWsjip0QIZ8tyhnq&quot;,&quot;i.baidu.com&quot;:&quot;https://sp0.baidu.com/74oIbT3kAMgDnd_&quot;,&quot;c.baidu.com&quot;:&quot;https://sp0.baidu.com/9foIbT3kAMgDnd_&quot;,&quot;sclick.baidu.com&quot;:&quot;https://sp0.baidu.com/5bU_dTmfKgQFm2e88IuM_a&quot;,&quot;nsclick.baidu.com&quot;:&quot;https://sp1.baidu.com/8qUJcD3n0sgCo2Kml5_Y_D3&quot;,&quot;eclick.baidu.com&quot;:&quot;https://sp3.baidu.com/-0U_dTmfKgQFm2e88IuM_a&quot;,&quot;api.map.baidu.com&quot;:&quot;https://sp2.baidu.com/9_Q4sjOpB1gCo2Kml5_Y_D3&quot;,&quot;ecma.bdimg.com&quot;:&quot;https://ss1.bdstatic.com/-0U0bXSm1A5BphGlnYG&quot;,&quot;t10.baidu.com&quot;:&quot;https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq&quot;,&quot;t11.baidu.com&quot;:&quot;https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq&quot;,&quot;t12.baidu.com&quot;:&quot;https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq&quot;,&quot;i7.baidu.com&quot;:&quot;https://ss0.baidu.com/73F1bjeh1BF3odCf&quot;,&quot;i8.baidu.com&quot;:&quot;https://ss0.baidu.com/73x1bjeh1BF3odCf&quot;,&quot;i9.baidu.com&quot;:&quot;https://ss0.baidu.com/73t1bjeh1BF3odCf&quot;,&quot;b1.bdstatic.com&quot;:&quot;https://ss0.bdstatic.com/9uN1bjq8AAUYm2zgoY3K&quot;,&quot;su.bdimg.com&quot;:&quot;https://ss0.bdstatic.com/5a21bjqh_Q23odCf&quot;,&quot;opendata.baidu.com&quot;:&quot;https://sp0.baidu.com/8aQDcjqpAAV3otqbppnN2DJv&quot;,&quot;api.open.baidu.com&quot;:&quot;https://sp0.baidu.com/9_Q4sjW91Qh3otqbppnN2DJv&quot;,&quot;tag.baidu.com&quot;:&quot;https://sp1.baidu.com/6LMFsjip0QIZ8tyhnq&quot;,&quot;f3.baidu.com&quot;:&quot;https://sp2.baidu.com/-uV1bjeh1BF3odCf&quot;,&quot;s.share.baidu.com&quot;:&quot;https://sp0.baidu.com/5foZdDe71MgCo2Kml5_Y_D3&quot;,&quot;bdimg.share.baidu.com&quot;:&quot;https://ss1.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv&quot;};var get = function(url) {if(location.protocol === &quot;http&quot;) {return url;}var reg = /^(http[s]?:\/\/)?([^\/]+)(.*)/,matches = url.match(reg);url = list.hasOwnProperty(matches[2])&amp;&amp;(list[matches[2]] + matches[3]) || url;return url;},set = function(kdomain,vdomain) {list[kdomain] = vdomain;}; return {get : get,set : set}})();&lt;/script&gt;"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2015-05-02T20:50:36+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 40 "$('#box').animate({'top':'0px'},500);"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2015-05-02T20:50:51+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 40 "$('#box').animate({'top':'0px'},500);"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2015-05-02T20:51:48+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 40 "$('#box'):animate({'top':'0px'},500);"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2015-05-02T20:51:49+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 40 "$('#box'):animate({'top':'0px'},500);"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2015-05-02T20:51:50+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 40 "$('#box'):animate({'top':'0px'},500);"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2015-05-02T20:53:23+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 63 "&lt;input type=&quot;text&quot; value=&quot;People Walking&quot; onfocus=&quot;this.value = '';&quot; onblur=&quot;if (this.value == '') {this.value = 'People Walking';}&quot;&gt;&lt;input type=&quot;submit&quot; value=&quot;&quot;&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-05-02T20:56:23+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 46 "&lt;input type=&quot;text&quot; onblur=&quot;if (this.value == '') {this.value = 'People Walking';}&quot; onfocus=&quot;this.value = '';&quot; value=&quot;People Walking&quot;&gt;&lt;input type=&quot;submit&quot; value=&quot;&quot;&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-05-02T20:56:24+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 46 "&lt;input type=&quot;text&quot; onblur=&quot;if (this.value == '') {this.value = 'People Walking';}&quot; onfocus=&quot;this.value = '';&quot; value=&quot;People Walking&quot;&gt;&lt;input type=&quot;submit&quot; value=&quot;&quot;&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-05-02T20:56:37+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 54 "onblur=&quot;if (this.value == '') {this.value = 'People Walking';}&quot;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-05-02T20:57:42+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/css/style.css
+ERR: 非法操作:css
+
+[ 2015-05-02T20:57:42+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/js/jquery.wmuSlider.js
+ERR: 非法操作:js
+
+[ 2015-05-02T20:57:42+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/js/login.js
+ERR: 非法操作:js
+
+[ 2015-05-02T20:57:42+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2015-05-02T20:57:43+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/js/login.js
+ERR: 非法操作:js
+
+[ 2015-05-02T20:57:43+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/js/jquery.wmuSlider.js
+ERR: 非法操作:js
+
+[ 2015-05-02T20:58:27+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2015-05-02T20:58:27+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/js/login.js
+ERR: 非法操作:js
+
+[ 2015-05-02T20:58:27+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/js/jquery.wmuSlider.js
+ERR: 非法操作:js
+
+[ 2015-05-02T20:58:27+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/js/jquery.wmuSlider.js
+ERR: 非法操作:js
+
+[ 2015-05-02T21:06:53+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 40 "$('#box').animate({'top':'0px'},500);"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2015-05-02T21:09:33+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 71 "&lt;input type=&quot;text&quot; value=&quot;People Walking&quot; onfocus=&quot;this.value = '';&quot; onblur=&quot;if (this.value == '') {this.value = 'People Walking';}&quot;&gt;&lt;input type=&quot;submit&quot; value=&quot;&quot;&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-05-02T21:09:54+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 88 "onblur=&quot;if (this.value == '') {this.value = 'People Walking';}&quot;&gt;&lt;input"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-05-02T21:10:25+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/css/style.css
+ERR: 非法操作:css
+
+[ 2015-05-02T21:10:25+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/js/login.js
+ERR: 非法操作:js
+
+[ 2015-05-02T21:10:25+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/js/jquery.wmuSlider.js
+ERR: 非法操作:js
+
+[ 2015-05-02T21:10:25+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2015-05-02T21:10:25+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/js/login.js
+ERR: 非法操作:js
+
+[ 2015-05-02T21:10:26+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/js/jquery.wmuSlider.js
+ERR: 非法操作:js
+
+[ 2015-05-02T21:11:04+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2015-05-02T21:11:04+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/js/login.js
+ERR: 非法操作:js
+
+[ 2015-05-02T21:11:04+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/js/jquery.wmuSlider.js
+ERR: 非法操作:js
+
+[ 2015-05-02T21:11:04+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/js/login.js
+ERR: 非法操作:js
+
+[ 2015-05-02T21:11:04+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/js/jquery.wmuSlider.js
+ERR: 非法操作:js
+
+[ 2015-05-02T21:11:51+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/js/login.js
+ERR: 非法操作:js
+
+[ 2015-05-02T21:11:51+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2015-05-02T21:11:51+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/js/jquery.wmuSlider.js
+ERR: 非法操作:js
+
+[ 2015-05-02T21:11:51+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/js/login.js
+ERR: 非法操作:js
+
+[ 2015-05-02T21:11:51+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/js/jquery.wmuSlider.js
+ERR: 非法操作:js
+
+[ 2015-05-02T21:17:22+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 86 "&lt;input type=&quot;text&quot; value=&quot;People Walking&quot; onfocus=&quot;this.value = '';&quot; onblur=&quot;if (this.value == '') {this.value = 'People Walking';}&quot;&gt;&lt;input type=&quot;submit&quot; value=&quot;&quot;&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-05-02T21:18:11+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 86 "&lt;input type=&quot;text&quot; value=&quot;People Walking&quot; onfocus=&quot;{this.value = '';}&quot; onblur=&quot;{if (this.value == '') {this.value = 'People Walking'};}&quot;&gt;&lt;input type=&quot;submit&quot; value=&quot;&quot;&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-05-02T21:18:35+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 86 "&lt;input type=&quot;text&quot; value=&quot;People Walking&quot; onfocus=&quot;{this.value = ''}&quot; onblur=&quot;{if (this.value == '') {this.value = 'People Walking'}}&quot;&gt;&lt;input type=&quot;submit&quot; value=&quot;&quot;&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-05-02T21:19:02+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 89 "onfocus=&quot;{this.value = ''}&quot;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-05-02T21:19:04+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 89 "onfocus=&quot;{this.value = ''}&quot;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-05-02T21:19:33+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 89 "onfocus=&quot;{this-&gt;value = ''}&quot;"  - Unexpected " = ", expected one of: "}" , " "
+
+[ 2015-05-02T21:19:34+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 89 "onfocus=&quot;{this-&gt;value = ''}&quot;"  - Unexpected " = ", expected one of: "}" , " "
+
+[ 2015-05-02T21:19:35+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 89 "onfocus=&quot;{this-&gt;value = ''}&quot;"  - Unexpected " = ", expected one of: "}" , " "
+
+[ 2015-05-02T21:19:37+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 89 "onfocus=&quot;{this-&gt;value = ''}&quot;"  - Unexpected " = ", expected one of: "}" , " "
+
+[ 2015-05-02T21:27:02+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 89 "onfocus=&quot;{this.value = ''}&quot;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-05-02T21:27:21+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 238 "$('.cbox').stop(true,true).animate({top:318},100).hide().eq($(this).index()).animate({top:0},400).show();"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2015-05-02T21:27:22+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/index
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\index.html"  on line 238 "$('.cbox').stop(true,true).animate({top:318},100).hide().eq($(this).index()).animate({top:0},400).show();"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2015-05-02T21:28:47+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/css/common.css
+ERR: 非法操作:css
+
+[ 2015-05-02T21:28:47+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2015-05-02T21:28:47+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/js/jquery.autocomplete.min.js
+ERR: 非法操作:js
+
+[ 2015-05-02T21:28:47+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2015-05-02T21:28:47+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/js/jquery.autocomplete.min.js
+ERR: 非法操作:js
+
+[ 2015-05-02T21:29:56+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2015-05-02T21:29:56+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/js/jquery.autocomplete.min.js
+ERR: 非法操作:js
+
+[ 2015-05-02T21:29:57+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2015-05-02T21:29:57+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/js/jquery.autocomplete.min.js
+ERR: 非法操作:js
+

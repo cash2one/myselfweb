@@ -1,0 +1,64 @@
+[ 2016-05-26T05:04:53+08:00 ] 107.167.3.44 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.009726s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000109s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000257s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\localuser\ftp483451\Web\Connect2.1\qqConnectAPI.php 第 2 行.
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000075s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000046s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplate [ RunTime:0.424089s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.424231s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000027s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000113s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000037s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000060s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000138s ]
+
+[ 2016-05-26T13:46:16+08:00 ] 118.193.208.98 /index.php/Home/Weixin/index?signature=f82b3d8c5fb1c4b31c05bd34fd40a7364c510124&timestamp=1464241637&nonce=1892558563&encrypt_type=aes&msg_signature=c1c76171ebf05f691752fc7a1da2f04cddcc8cbe
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000131s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000073s ]
+NOTIC: [8] Undefined index: echostr D:\localuser\ftp483451\Web\Home\Controller\WeixinController.class.php 第 20 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\localuser\ftp483451\Web\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `weixin_user` [ RunTime:0.024223s ]
+SQL: SELECT * FROM `weixin_user` WHERE ( openid='o4oRrwMttTnZXV2OiDOWS8GGgXNo' )  [ RunTime:0.000478s ]
+SQL: SHOW COLUMNS FROM `weixin_action` [ RunTime:0.022922s ]
+SQL: SELECT * FROM `weixin_action` WHERE ( user_id="7" and action_type<>1 ) ORDER BY time desc LIMIT 1   [ RunTime:0.000930s ]
+NOTIC: [8] Undefined variable: iskeyword D:\localuser\ftp483451\Web\Home\Controller\WeixinController.class.php 第 156 行.
+
+[ 2016-05-26T22:24:36+08:00 ] 118.193.198.197 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000155s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\localuser\ftp483451\Web\Connect2.1\qqConnectAPI.php 第 2 行.
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000041s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000032s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplate [ RunTime:0.012397s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012492s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000024s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000102s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000037s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000054s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000133s ]
+

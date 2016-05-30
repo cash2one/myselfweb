@@ -1,0 +1,158 @@
+<!--
+Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE html>
+<html>
+<head>
+<title>今日天气(^_^)</title>
+<!-- for-mobile-apps -->
+
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+		function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- //for-mobile-apps -->
+<link href="{$smarty.const.Home_CSS}weather_style.css" rel="stylesheet" type="text/css" media="all" />
+<link href='//fonts.googleapis.com/css?family=Nunito:400,300,700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="{$smarty.const.Home_CSS}per_skel.css" />
+			<link rel="stylesheet" href="{$smarty.const.Home_CSS}per_style.css" />
+			<link rel="stylesheet" href="{$smarty.const.Home_CSS}per_style-xlarge.css" />
+		
+</head>
+{if $weather["daily_forecast"]['0']["cond"]["code_d"]==100}
+				<body style="background:url({$smarty.const.Home_IMG}weather/sun/{$rand}.jpg) no-repeat 0px 0px;background-size: cover;">
+				{elseif $weather["daily_forecast"]['0']["cond"]["code_d"]>100&&$weather["daily_forecast"]['0']["cond"]["code_d"]<104}
+				<body style="background:url({$smarty.const.Home_IMG}weather/sun/{$rand}.jpg) no-repeat 0px 0px;background-size: cover;">
+				{elseif $weather["daily_forecast"]['0']["cond"]["code_d"]==104}
+				<body style="background:url({$smarty.const.Home_IMG}weather/overcast/1.jpg) no-repeat 0px 0px;background-size: cover;">
+				{elseif $weather["daily_forecast"]['0']["cond"]["code_d"]>=200&&$weather["daily_forecast"]['0']["cond"]["code_d"]<=213}
+				<body style="background:url({$smarty.const.Home_IMG}weather/sun/{$rand}.jpg) no-repeat 0px 0px;background-size: cover;">
+				{elseif $weather["daily_forecast"]['0']["cond"]["code_d"]>=300&&$weather["daily_forecast"]['0']["cond"]["code_d"]<=304||$weather["daily_forecast"]['0']["cond"]["code_d"]==308||$weather["daily_forecast"]['0']["cond"]["code_d"]==310||$weather["daily_forecast"]['0']["cond"]["code_d"]==311||$weather["daily_forecast"]['0']["cond"]["code_d"]==312}
+				<body style="background:url({$smarty.const.Home_IMG}weather/rain/{$rand}.jpg) no-repeat 0px 0px;background-size: cover;">
+				{elseif $weather["daily_forecast"]['0']["cond"]["code_d"]>=305&&$weather["daily_forecast"]['0']["cond"]["code_d"]<=307}
+				<body style="background:url({$smarty.const.Home_IMG}weather/rain/{$rand}.jpg) no-repeat 0px 0px;background-size: cover;">
+				{elseif $weather["daily_forecast"]['0']["cond"]["code_d"]>=404&&$weather["daily_forecast"]['0']["cond"]["code_d"]<=406}
+				<body style="background:url({$smarty.const.Home_IMG}weather/snow/{$rand}.jpg) no-repeat 0px 0px;background-size: cover;">
+				{elseif $weather["daily_forecast"]['0']["cond"]["code_d"]>=400&&$weather["daily_forecast"]['0']["cond"]["code_d"]<=403||$weather["daily_forecast"]['0']["cond"]["code_d"]==407}
+				<body style="background:url({$smarty.const.Home_IMG}weather/snow/{$rand}.jpg) no-repeat 0px 0px;background-size: cover;">
+				{elseif $weather["daily_forecast"]['0']["cond"]["code_d"]>=501&&$weather["daily_forecast"]['0']["cond"]["code_d"]<=502}
+				<body style="background:url({$smarty.const.Home_IMG}weather/banner.jpg) no-repeat 0px 0px;background-size: cover;">
+				{/if}
+					<div class='card-holder'>
+  <div class='card-wrapper'>
+    <a href='{$smarty.const.__MODULE__}/index/login?state=1'>
+      <div class='card bg-01'>
+        <span class='card-content'>首页</span>
+      </div>
+    </a>
+  </div>
+  <div class='card-wrapper'>
+    <a href='{$smarty.const.__MODULE__}/weather/weather_index'>
+      <div class='card bg-02'>
+        <span class='card-content'>天气预报</span>
+      </div>
+    </a>
+  </div>
+  <div class='card-wrapper'>
+    <a href='#'>
+      <div class='card bg-03'>
+        <span class='card-content'>暂未开发</span>
+      </div>
+    </a>
+  </div>
+  <div class='card-wrapper'>
+    <a href='#'>
+      <div class='card bg-04'>
+        <span class='card-content'>暂未开发</span>
+      </div>
+    </a>
+  </div>
+  <div class='card-wrapper'>
+    <a href='#'>
+      <div class='card bg-05'>
+        <span class='card-content'>暂未开发</span>
+      </div>
+    </a>
+  </div>
+  <div class='card-wrapper'>
+    <a href='#'>
+      <div class='card bg-06'>
+        <span class='card-content'>暂未开发</span>
+      </div>
+    </a>
+  </div>
+</div>
+	<!-- main -->
+		<div class="main">
+			<h1>今日天气(^_^)</h1>
+			<div class="main-grid1">
+			{if $weather["daily_forecast"]['0']["cond"]["code_d"]==100}
+				<div class="main-grid1-pos-sun">
+				{elseif $weather["daily_forecast"]['0']["cond"]["code_d"]>100&&$weather["daily_forecast"]['0']["cond"]["code_d"]<104}
+				<div class="main-grid1-pos-cloudy">
+				{elseif $weather["daily_forecast"]['0']["cond"]["code_d"]==104}
+				<div class="main-grid1-pos-overcast">
+				{elseif $weather["daily_forecast"]['0']["cond"]["code_d"]>=200&&$weather["daily_forecast"]['0']["cond"]["code_d"]<=213}
+				<div class="main-grid1-pos-wind">
+				{elseif $weather["daily_forecast"]['0']["cond"]["code_d"]>=300&&$weather["daily_forecast"]['0']["cond"]["code_d"]<=304||$weather["daily_forecast"]['0']["cond"]["code_d"]==308||$weather["daily_forecast"]['0']["cond"]["code_d"]==310||$weather["daily_forecast"]['0']["cond"]["code_d"]==311||$weather["daily_forecast"]['0']["cond"]["code_d"]==312}
+				<div class="main-grid1-pos-storm">
+				{elseif $weather["daily_forecast"]['0']["cond"]["code_d"]>=305&&$weather["daily_forecast"]['0']["cond"]["code_d"]<=307}
+				<div class="main-grid1-pos-rain">
+				{elseif $weather["daily_forecast"]['0']["cond"]["code_d"]>=404&&$weather["daily_forecast"]['0']["cond"]["code_d"]<=406}
+				<div class="main-grid1-pos-sleet">
+				{elseif $weather["daily_forecast"]['0']["cond"]["code_d"]>=400&&$weather["daily_forecast"]['0']["cond"]["code_d"]<=403||$weather["daily_forecast"]['0']["cond"]["code_d"]==407}
+				<div class="main-grid1-pos-snow">
+				{elseif $weather["daily_forecast"]['0']["cond"]["code_d"]>=501&&$weather["daily_forecast"]['0']["cond"]["code_d"]<=502}
+				<div class="main-grid1-pos-haze">
+				{/if}
+					<span> </span>
+			
+				</div>
+				<h2>{$weather["now"]['tmp']}<sup class="degree">°</sup><span>C</span></h2>
+				<p>{$weather["basic"]['city']}</p>
+				<div class="main-grid1-grids">
+					<div class="main-grid1-grid-left">
+						<p>{$weather["daily_forecast"]['0']["tmp"]["min"]}<sup class="degree">°C-</sup> {$weather["daily_forecast"]['0']["tmp"]["max"]}<sup class="degree">°C</sup></p>
+						<h3>天气状况:{$weather["daily_forecast"]['0']["cond"]["txt_d"]}</h3>
+					</div>
+					<div class="main-grid1-grid-right">
+						<p>PM2.5:{$weather["aqi"]['city']['pm25']}&nbsp;&nbsp;&nbsp;空气质量:{$weather["aqi"]['city']['qlty']}<span style="font-size: 20px;">{$time}</span></p>
+					</div>
+					<div class="clear"> </div>
+				</div>
+			</div>
+			<div class="main-grid2">
+			{foreach from=$weather['daily_forecast']  key=cid item=con}
+			{if $cid>0&&$cid<5}
+				<div class="main-grid2-left">
+				{if $con["cond"]["code_d"]==100}
+				<img src="{$smarty.const.Home_IMG}weather/sun_s.png" alt=" " class="img-responsive" style="width: 50px; height: 50px;"/>
+				{elseif $con["cond"]["code_d"]>100&&$con["cond"]["code_d"]<104}
+				<img src="{$smarty.const.Home_IMG}weather/most_cloudy_s.png" alt=" " class="img-responsive" style="width: 50px; height: 50px;"/>
+				{elseif $con["cond"]["code_d"]==104}
+				<img src="{$smarty.const.Home_IMG}weather/overcast_s.png" alt=" " class="img-responsive" style="width: 50px; height: 50px;"/>
+				{elseif $con["cond"]["code_d"]>=200&&$con["cond"]["code_d"]<=213}
+				<img src="{$smarty.const.Home_IMG}weather/wind_s.png" alt=" " class="img-responsive" style="width: 50px; height: 50px;"/>
+				{elseif $con["cond"]["code_d"]>=300&&$con["cond"]["code_d"]<=304||$con["cond"]["code_d"]==308||$con["cond"]["code_d"]==310||$con["cond"]["code_d"]==311||$con["cond"]["code_d"]==312}
+				<img src="{$smarty.const.Home_IMG}weather/storm_s.png" alt=" " class="img-responsive" style="width: 50px; height: 50px;"/>
+				{elseif $con["cond"]["code_d"]>=305&&$con["cond"]["code_d"]<=307}
+				<img src="{$smarty.const.Home_IMG}weather/rain_s.png" alt=" " class="img-responsive" style="width: 50px; height: 50px;"/>
+				{elseif $con["cond"]["code_d"]>=404&&$con["cond"]["code_d"]<=406}
+				<img src="{$smarty.const.Home_IMG}weather/sleet_s.png" alt=" " class="img-responsive" style="width: 50px; height: 50px;"/>
+				{elseif $con["cond"]["code_d"]>=400&&$con["cond"]["code_d"]<=403||$con["cond"]["code_d"]==407}
+				<img src="{$smarty.const.Home_IMG}weather/snow_s.png" alt=" " class="img-responsive" style="width: 50px; height: 50px;"/>
+				{elseif $con["cond"]["code_d"]>=501&&$con["cond"]["code_d"]<=502}
+				<img src="{$smarty.const.Home_IMG}weather/haze_s.png" alt=" " class="img-responsive" style="width: 50px; height: 50px;"/>
+				{/if}
+					<p>{$con["date"] }<span>{$con["tmp"]['min']}°C / {$con["tmp"]['max']}°C<sup class="degree">°</sup></span></p>
+				</div>{/if}
+				{/foreach}
+				<div class="clear"> </div>
+			</div>
+			<div class="footer">
+				
+			</div>
+		</div>
+</body>
+</html>

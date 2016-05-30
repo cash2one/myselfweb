@@ -1,0 +1,198 @@
+[ 2016-04-27T10:32:01+08:00 ] 118.193.200.66 /index.php/Home/Weixin/index?signature=ab1514a2fb3580133b0b9b69b05d76bff0b3db1b&timestamp=1461724770&nonce=1937340379&encrypt_type=aes&msg_signature=df5878ba473f44a357af44f1fb41a5bcee2ff434
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.009796s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000036s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000142s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000108s ]
+NOTIC: [8] Undefined index: echostr D:\localuser\ftp483451\Web\Home\Controller\WeixinController.class.php 第 20 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\localuser\ftp483451\Web\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `weixin_user` [ RunTime:0.027297s ]
+SQL: SELECT * FROM `weixin_user` WHERE ( openid='o4oRrwMttTnZXV2OiDOWS8GGgXNo' )  [ RunTime:0.000337s ]
+SQL: SHOW COLUMNS FROM `weixin_action` [ RunTime:0.020239s ]
+SQL: SELECT * FROM `weixin_action` WHERE ( user_id="7" and action_type<>1 ) ORDER BY time desc LIMIT 1   [ RunTime:0.000456s ]
+NOTIC: [8] Undefined variable: iskeyword D:\localuser\ftp483451\Web\Home\Controller\WeixinController.class.php 第 156 行.
+
+[ 2016-04-27T11:32:29+08:00 ] 118.193.200.66 /index.php/Home/Weixin/index?signature=8452575c4631c2bcde963927aab11680cfdd8d50&timestamp=1461728398&nonce=2051783426&encrypt_type=aes&msg_signature=104cdffe7fcbb971b101ce74468848237ed01e7f
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000130s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Undefined index: echostr D:\localuser\ftp483451\Web\Home\Controller\WeixinController.class.php 第 20 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\localuser\ftp483451\Web\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `weixin_user` [ RunTime:0.020045s ]
+SQL: SELECT * FROM `weixin_user` WHERE ( openid='o4oRrwMttTnZXV2OiDOWS8GGgXNo' )  [ RunTime:0.000245s ]
+SQL: SHOW COLUMNS FROM `weixin_action` [ RunTime:0.002195s ]
+SQL: SELECT * FROM `weixin_action` WHERE ( user_id="7" and action_type<>1 ) ORDER BY time desc LIMIT 1   [ RunTime:0.000346s ]
+NOTIC: [8] Undefined variable: iskeyword D:\localuser\ftp483451\Web\Home\Controller\WeixinController.class.php 第 156 行.
+
+[ 2016-04-27T11:32:42+08:00 ] 118.193.200.70 /index.php/Home/Weixin/index?signature=9f824626c0dc17fe79f55a9823794256adac6b51&timestamp=1461728411&nonce=831457805&encrypt_type=aes&msg_signature=8ae4fab945c107251a886779d9eb17d00bb703ec
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000034s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000116s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Undefined index: echostr D:\localuser\ftp483451\Web\Home\Controller\WeixinController.class.php 第 20 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\localuser\ftp483451\Web\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `weixin_user` [ RunTime:0.003626s ]
+SQL: SELECT * FROM `weixin_user` WHERE ( openid='o4oRrwMttTnZXV2OiDOWS8GGgXNo' )  [ RunTime:0.000482s ]
+SQL: SHOW COLUMNS FROM `weixin_action` [ RunTime:0.006575s ]
+SQL: SELECT * FROM `weixin_action` WHERE ( user_id="7" and action_type<>1 ) ORDER BY time desc LIMIT 1   [ RunTime:0.000591s ]
+NOTIC: [8] Undefined variable: iskeyword D:\localuser\ftp483451\Web\Home\Controller\WeixinController.class.php 第 156 行.
+
+[ 2016-04-27T11:32:49+08:00 ] 118.193.200.70 /index.php/Home/Weixin/index?signature=89f616ef90071d07e5786f2003febcf9dbb4db4d&timestamp=1461728418&nonce=382863023&encrypt_type=aes&msg_signature=a236bb77a4ff25b6df36b5dc42c5e2a230c34b88
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000107s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000082s ]
+NOTIC: [8] Undefined index: echostr D:\localuser\ftp483451\Web\Home\Controller\WeixinController.class.php 第 20 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\localuser\ftp483451\Web\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `weixin_user` [ RunTime:0.002477s ]
+SQL: SELECT * FROM `weixin_user` WHERE ( openid='o4oRrwMttTnZXV2OiDOWS8GGgXNo' )  [ RunTime:0.000514s ]
+SQL: SHOW COLUMNS FROM `weixin_action` [ RunTime:0.002190s ]
+SQL: SELECT * FROM `weixin_action` WHERE ( user_id="7" and action_type<>1 ) ORDER BY time desc LIMIT 1   [ RunTime:0.001753s ]
+NOTIC: [8] Undefined variable: iskeyword D:\localuser\ftp483451\Web\Home\Controller\WeixinController.class.php 第 156 行.
+
+[ 2016-04-27T11:33:13+08:00 ] 118.193.200.70 /index.php/Home/Weixin/index?signature=89cbc327753bf76e98dd1ae4353990e65c470f02&timestamp=1461728442&nonce=1010286425&encrypt_type=aes&msg_signature=88f3d2c8999a40af30c2a53e6301bdb3f6a1037c
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000671s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000075s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000181s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Undefined index: echostr D:\localuser\ftp483451\Web\Home\Controller\WeixinController.class.php 第 20 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\localuser\ftp483451\Web\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `weixin_user` [ RunTime:0.002159s ]
+SQL: SELECT * FROM `weixin_user` WHERE ( openid='o4oRrwMttTnZXV2OiDOWS8GGgXNo' )  [ RunTime:0.000383s ]
+SQL: SHOW COLUMNS FROM `weixin_action` [ RunTime:0.002759s ]
+SQL: SELECT * FROM `weixin_action` WHERE ( user_id="7" and action_type<>1 ) ORDER BY time desc LIMIT 1   [ RunTime:0.000553s ]
+NOTIC: [8] Undefined variable: iskeyword D:\localuser\ftp483451\Web\Home\Controller\WeixinController.class.php 第 156 行.
+
+[ 2016-04-27T13:44:18+08:00 ] 118.193.200.70 /index.php/Home/Weixin/index?signature=47260f3ca697499f4e6339f51db07169b0b64c12&timestamp=1461736307&nonce=2141480939&encrypt_type=aes&msg_signature=002e93ff4175cf39911cb133920a92efa919445d
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000130s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Undefined index: echostr D:\localuser\ftp483451\Web\Home\Controller\WeixinController.class.php 第 20 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\localuser\ftp483451\Web\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `weixin_user` [ RunTime:0.015641s ]
+SQL: SELECT * FROM `weixin_user` WHERE ( openid='o4oRrwJA55i-Ix7p_Bmc1k-4N_fg' )  [ RunTime:0.000253s ]
+SQL: SHOW COLUMNS FROM `weixin_action` [ RunTime:0.003115s ]
+SQL: SELECT * FROM `weixin_action` WHERE ( user_id="16" and action_type<>1 ) ORDER BY time desc LIMIT 1   [ RunTime:0.001138s ]
+NOTIC: [8] Undefined variable: iskeyword D:\localuser\ftp483451\Web\Home\Controller\WeixinController.class.php 第 156 行.
+
+[ 2016-04-27T13:44:34+08:00 ] 118.193.200.89 /index.php/Home/Weixin/index?signature=95d7336cddd2d127360f9417f51aa736f1e51197&timestamp=1461736323&nonce=282195394&encrypt_type=aes&msg_signature=ca2bc8ddeef3c95c4996308d47ae04e73062286d
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000114s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000057s ]
+NOTIC: [8] Undefined index: echostr D:\localuser\ftp483451\Web\Home\Controller\WeixinController.class.php 第 20 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\localuser\ftp483451\Web\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `weixin_user` [ RunTime:0.002999s ]
+SQL: SELECT * FROM `weixin_user` WHERE ( openid='o4oRrwJA55i-Ix7p_Bmc1k-4N_fg' )  [ RunTime:0.000466s ]
+SQL: SHOW COLUMNS FROM `weixin_action` [ RunTime:0.002237s ]
+SQL: SELECT * FROM `weixin_action` WHERE ( user_id="16" and action_type<>1 ) ORDER BY time desc LIMIT 1   [ RunTime:0.000633s ]
+NOTIC: [8] Undefined variable: iskeyword D:\localuser\ftp483451\Web\Home\Controller\WeixinController.class.php 第 156 行.
+
+[ 2016-04-27T13:44:43+08:00 ] 118.193.200.89 /index.php/Home/Weixin/index?signature=4a7e94d0d2bdcc1e67214bc4a54e14aba2e5bd60&timestamp=1461736332&nonce=1247299451&encrypt_type=aes&msg_signature=0acdbb3f598ee7acb2107f921917ee90787bb825
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000034s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000113s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000057s ]
+NOTIC: [8] Undefined index: echostr D:\localuser\ftp483451\Web\Home\Controller\WeixinController.class.php 第 20 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\localuser\ftp483451\Web\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `weixin_user` [ RunTime:0.002985s ]
+SQL: SELECT * FROM `weixin_user` WHERE ( openid='o4oRrwJA55i-Ix7p_Bmc1k-4N_fg' )  [ RunTime:0.000438s ]
+SQL: SHOW COLUMNS FROM `weixin_action` [ RunTime:0.002295s ]
+SQL: SELECT * FROM `weixin_action` WHERE ( user_id="16" and action_type<>1 ) ORDER BY time desc LIMIT 1   [ RunTime:0.000557s ]
+NOTIC: [8] Undefined variable: iskeyword D:\localuser\ftp483451\Web\Home\Controller\WeixinController.class.php 第 156 行.
+
+[ 2016-04-27T15:59:32+08:00 ] 118.193.200.89 /index.php/Home/Weixin/index?signature=7f7c443de42b2237e2407390ce9e6142727beed1&timestamp=1461744421&nonce=1406469732&encrypt_type=aes&msg_signature=aca1bb786b5446b5941b9fc52f117cfa5d6bd7a0
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000034s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000130s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Undefined index: echostr D:\localuser\ftp483451\Web\Home\Controller\WeixinController.class.php 第 20 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\localuser\ftp483451\Web\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `weixin_user` [ RunTime:0.015676s ]
+SQL: SELECT * FROM `weixin_user` WHERE ( openid='o4oRrwMttTnZXV2OiDOWS8GGgXNo' )  [ RunTime:0.000617s ]
+SQL: SHOW COLUMNS FROM `weixin_action` [ RunTime:0.002812s ]
+SQL: SELECT * FROM `weixin_action` WHERE ( user_id="7" and action_type<>1 ) ORDER BY time desc LIMIT 1   [ RunTime:0.000746s ]
+NOTIC: [8] Undefined variable: iskeyword D:\localuser\ftp483451\Web\Home\Controller\WeixinController.class.php 第 156 行.
+
+[ 2016-04-27T16:02:48+08:00 ] 118.193.200.84 /index.php/Home/Weixin/index?signature=a0a1ea2d1f316d3e3d4f9c0c4bd128695ffbfcaf&timestamp=1461744617&nonce=198772129&encrypt_type=aes&msg_signature=1be92baf6c59f26bb90f7bb1643910e2aa096810
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000124s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000061s ]
+NOTIC: [8] Undefined index: echostr D:\localuser\ftp483451\Web\Home\Controller\WeixinController.class.php 第 20 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\localuser\ftp483451\Web\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `weixin_user` [ RunTime:0.002078s ]
+SQL: SELECT * FROM `weixin_user` WHERE ( openid='o4oRrwMttTnZXV2OiDOWS8GGgXNo' )  [ RunTime:0.000349s ]
+SQL: SHOW COLUMNS FROM `weixin_action` [ RunTime:0.002411s ]
+SQL: SELECT * FROM `weixin_action` WHERE ( user_id="7" and action_type<>1 ) ORDER BY time desc LIMIT 1   [ RunTime:0.000843s ]
+NOTIC: [8] Undefined variable: iskeyword D:\localuser\ftp483451\Web\Home\Controller\WeixinController.class.php 第 156 行.
+
+[ 2016-04-27T16:02:55+08:00 ] 118.193.200.84 /index.php/Home/Weixin/index?signature=b56534c1443e28d1398c882c2f7a570dda8655f2&timestamp=1461744625&nonce=305190321&encrypt_type=aes&msg_signature=a5f4cbe4f9a6ad364e0390ebc0eb07441fc11a34
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000061s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000146s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000089s ]
+NOTIC: [8] Undefined index: echostr D:\localuser\ftp483451\Web\Home\Controller\WeixinController.class.php 第 20 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\localuser\ftp483451\Web\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `weixin_user` [ RunTime:0.002588s ]
+SQL: SELECT * FROM `weixin_user` WHERE ( openid='o4oRrwMttTnZXV2OiDOWS8GGgXNo' )  [ RunTime:0.005540s ]
+SQL: SHOW COLUMNS FROM `weixin_action` [ RunTime:0.002370s ]
+SQL: SELECT * FROM `weixin_action` WHERE ( user_id="7" and action_type<>1 ) ORDER BY time desc LIMIT 1   [ RunTime:0.000341s ]
+NOTIC: [8] Undefined variable: iskeyword D:\localuser\ftp483451\Web\Home\Controller\WeixinController.class.php 第 156 行.
+

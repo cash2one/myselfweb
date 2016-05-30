@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0">
+    <title>装修展示</title>
+    <link rel="stylesheet" href="{$smarty.const.Home_CSS}weui.css"/>
+    <link rel="stylesheet" href="{$smarty.const.Home_CSS}example.css"/>
+</head>
+<body>
+
+    <!-- <div class="hd">
+        <h1 class="page_title">Article</h1>
+    </div> -->
+    <div class="bd">
+        <article class="weui_article">
+            <h1>{$design_info1["title"]}</h1>
+            <section>
+                {foreach from=$design_info1['info']  key=d_key item=d_val}
+                <section>
+                   <img style="width:100%;align-self:center;" src="{$d_val['filename']}"/>
+                </section>
+               {/foreach}
+            </section>
+        </article>
+    </div>
+
+</body>
+</html>

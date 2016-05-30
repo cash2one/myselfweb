@@ -1,0 +1,15 @@
+[ 2015-05-07T12:39:38+08:00 ] ::1 /movie/i_movie/index.php/Admin/Movie/m_find
+ERR: 模板不存在:F:/wamp/www/movie/i_movie/Admin/View/Movie/m_find.html
+
+[ 2015-05-07T14:24:41+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/show
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\show.html"  on line 849 "onfocus=&quot;if(this.value==&amp;#39;请在这里搜索！&amp;#39;){this.value=&amp;#39;&amp;#39;;}&quot;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2015-05-07T14:25:34+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/show
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\show.html"  on line 1795 "var duoshuoQuery = {short_name:&quot;yingshidaquan&quot;};"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2015-05-07T15:17:27+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/show/id/1
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\show.html"  on line 783 "alt={$.name}&gt;"  - Unexpected ".", expected one of: "{" , "identifier"
+
+[ 2015-05-07T15:17:44+08:00 ] ::1 /movie/i_movie/index.php/Home/Index/show/id/1
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Home/View\Index\show.html"  on line 783 "alt={$.name}&gt;"  - Unexpected ".", expected one of: "{" , "identifier"
+

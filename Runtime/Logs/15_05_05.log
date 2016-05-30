@@ -1,0 +1,124 @@
+[ 2015-05-05T09:12:13+08:00 ] ::1 /movie/i_movie/index.php/Admin/Index/login
+ERR: 非法操作:login
+
+[ 2015-05-05T13:29:58+08:00 ] ::1 /movie/i_movie/index.php/Admin/Manager/login.html
+ERR: Unable to load template file 'w\movie\i_movie\ThinkPHP/Tpl/dispatch_jump.tpl'
+
+[ 2015-05-05T13:33:20+08:00 ] ::1 /movie/i_movie/index.php/Admin/Manager/Admin/Manager/login
+ERR: 非法操作:Admin
+
+[ 2015-05-05T13:34:05+08:00 ] ::1 /movie/i_movie/index.php/Admin/Manager/Admin/Manager/login
+ERR: 非法操作:Admin
+
+[ 2015-05-05T13:34:55+08:00 ] ::1 /movie/i_movie/index.php/Admin/Manager/Admin/Index/index
+ERR: 非法操作:Admin
+
+[ 2015-05-05T13:36:34+08:00 ] ::1 /movie/i_movie/index.php/Admin/Manager
+ERR: 非法操作:index
+
+[ 2015-05-05T13:36:39+08:00 ] ::1 /movie/i_movie/index.php/Admin/Manager/index
+ERR: 非法操作:index
+
+[ 2015-05-05T13:36:54+08:00 ] ::1 /movie/i_movie/index.php/Admin/Manager/Admin/Manager/login
+ERR: 非法操作:Admin
+
+[ 2015-05-05T13:43:26+08:00 ] ::1 /movie/i_movie/index.php/Admin/Maager/login
+ERR: 无法加载控制器:Maager
+
+[ 2015-05-05T13:52:28+08:00 ] ::1 /movie/i_movie/index.php/Admin/Managerlogin
+ERR: 无法加载控制器:Managerlogin
+
+[ 2015-05-05T14:43:33+08:00 ] ::1 /movie/i_movie/index.php/Admin/Area/showarea
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Admin/View\Area\showarea.html"  on line 61 "}"  - Unexpected "
+                            }", expected one of: "{" , "identifier"
+
+[ 2015-05-05T14:48:00+08:00 ] ::1 /movie/i_movie/index.php/Admin/Area/showarea
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Admin/View\Area\showarea.html"  on line 60 "&lt;td&gt;{foreach $arr=&gt;$k=&gt;$v}"  - Unexpected "=>", expected one of: "}" , " "
+
+[ 2015-05-05T16:40:20+08:00 ] ::1 /movie/i_movie/index.php/Admin/Adminuser/showadminuser
+ERR: 模板不存在:F:/wamp/www/movie/i_movie/Admin/View/Adminuser/showadminuser.html
+
+[ 2015-05-05T16:53:24+08:00 ] ::1 /movie/i_movie/index.php/Admin/Movie/showlist
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Admin/View\Movie\showlist.html"  on line 151 "&lt;/html&gt;" unclosed {foreach} tag
+
+[ 2015-05-05T16:56:16+08:00 ] ::1 /movie/i_movie/index.php/Admin/Movie/showlist
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Admin/View\Movie\showlist.html"  on line 61 "&lt;select name=&quot;search-sort&quot; id=&quot;&quot;&gt;{foreach a1 as $k=&gt;$v}{echo $v.id}" unknown tag "echo"
+
+[ 2015-05-05T16:56:30+08:00 ] ::1 /movie/i_movie/index.php/Admin/Movie/showlist
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Admin/View\Movie\showlist.html"  on line 61 "&lt;select name=&quot;search-sort&quot; id=&quot;&quot;&gt;{foreach a1 as $k=&gt;$v}{echo $v.id}{/foreach}" unknown tag "echo"
+
+[ 2015-05-05T16:59:38+08:00 ] ::1 /movie/i_movie/index.php/Admin/Movie/showlist
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Admin/View\Movie\showlist.html"  on line 61 "&lt;select name=&quot;search-sort&quot; id=&quot;&quot;&gt;{foreach a1 as $k=&gt;$v}{var_dump($v.id}"  - Unexpected "}", expected one of: "","" , ")"
+
+[ 2015-05-05T16:59:40+08:00 ] ::1 /movie/i_movie/index.php/Admin/Movie/showlist
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Admin/View\Movie\showlist.html"  on line 61 "&lt;select name=&quot;search-sort&quot; id=&quot;&quot;&gt;{foreach a1 as $k=&gt;$v}{var_dump($v.id}"  - Unexpected "}", expected one of: "","" , ")"
+
+[ 2015-05-05T16:59:41+08:00 ] ::1 /movie/i_movie/index.php/Admin/Movie/showlist
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Admin/View\Movie\showlist.html"  on line 61 "&lt;select name=&quot;search-sort&quot; id=&quot;&quot;&gt;{foreach a1 as $k=&gt;$v}{var_dump($v.id}"  - Unexpected "}", expected one of: "","" , ")"
+
+[ 2015-05-05T16:59:41+08:00 ] ::1 /movie/i_movie/index.php/Admin/Movie/showlist
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Admin/View\Movie\showlist.html"  on line 61 "&lt;select name=&quot;search-sort&quot; id=&quot;&quot;&gt;{foreach a1 as $k=&gt;$v}{var_dump($v.id}"  - Unexpected "}", expected one of: "","" , ")"
+
+[ 2015-05-05T16:59:42+08:00 ] ::1 /movie/i_movie/index.php/Admin/Movie/showlist
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Admin/View\Movie\showlist.html"  on line 61 "&lt;select name=&quot;search-sort&quot; id=&quot;&quot;&gt;{foreach a1 as $k=&gt;$v}{var_dump($v.id}"  - Unexpected "}", expected one of: "","" , ")"
+
+[ 2015-05-05T16:59:42+08:00 ] ::1 /movie/i_movie/index.php/Admin/Movie/showlist
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Admin/View\Movie\showlist.html"  on line 61 "&lt;select name=&quot;search-sort&quot; id=&quot;&quot;&gt;{foreach a1 as $k=&gt;$v}{var_dump($v.id}"  - Unexpected "}", expected one of: "","" , ")"
+
+[ 2015-05-05T16:59:42+08:00 ] ::1 /movie/i_movie/index.php/Admin/Movie/showlist
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Admin/View\Movie\showlist.html"  on line 61 "&lt;select name=&quot;search-sort&quot; id=&quot;&quot;&gt;{foreach a1 as $k=&gt;$v}{var_dump($v.id}"  - Unexpected "}", expected one of: "","" , ")"
+
+[ 2015-05-05T16:59:42+08:00 ] ::1 /movie/i_movie/index.php/Admin/Movie/showlist
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Admin/View\Movie\showlist.html"  on line 61 "&lt;select name=&quot;search-sort&quot; id=&quot;&quot;&gt;{foreach a1 as $k=&gt;$v}{var_dump($v.id}"  - Unexpected "}", expected one of: "","" , ")"
+
+[ 2015-05-05T19:34:18+08:00 ] ::1 /movie/i_movie/index.php/Admin/Movie/showlist
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Admin/View\Movie\showlist.html"  on line 95 "&lt;tr&gt;{$foreach $arr}" too many shorthand attributes
+
+[ 2015-05-05T19:38:36+08:00 ] ::1 /movie/i_movie/index.php/Admin/Movie/showlist
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Admin/View\Movie\showlist.html"  on line 104 "&lt;/tr&gt;{$foreach $arr as $k=&gt;$v}"  - Unexpected " as ", expected one of: "}" , " "
+
+[ 2015-05-05T19:38:54+08:00 ] ::1 /movie/i_movie/index.php/Admin/Movie/showlist
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Admin/View\Movie\showlist.html"  on line 104 "&lt;/tr&gt;{$foreach $arr as $k=&gt;$v}"  - Unexpected " as ", expected one of: "}" , " "
+
+[ 2015-05-05T19:39:00+08:00 ] ::1 /movie/i_movie/index.php/Admin/Movie/showlist
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Admin/View\Movie\showlist.html"  on line 104 "&lt;/tr&gt;{$foreach $arr as $k=&gt;$v}"  - Unexpected " as ", expected one of: "}" , " "
+
+[ 2015-05-05T19:39:01+08:00 ] ::1 /movie/i_movie/index.php/Admin/Movie/showlist
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Admin/View\Movie\showlist.html"  on line 104 "&lt;/tr&gt;{$foreach $arr as $k=&gt;$v}"  - Unexpected " as ", expected one of: "}" , " "
+
+[ 2015-05-05T19:39:01+08:00 ] ::1 /movie/i_movie/index.php/Admin/Movie/showlist
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Admin/View\Movie\showlist.html"  on line 104 "&lt;/tr&gt;{$foreach $arr as $k=&gt;$v}"  - Unexpected " as ", expected one of: "}" , " "
+
+[ 2015-05-05T19:39:19+08:00 ] ::1 /movie/i_movie/index.php/Admin/Movie/showlist
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Admin/View\Movie\showlist.html"  on line 105 "{$foreach $arr as $k=&gt;$v}"  - Unexpected " as ", expected one of: "}" , " "
+
+[ 2015-05-05T19:39:20+08:00 ] ::1 /movie/i_movie/index.php/Admin/Movie/showlist
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Admin/View\Movie\showlist.html"  on line 105 "{$foreach $arr as $k=&gt;$v}"  - Unexpected " as ", expected one of: "}" , " "
+
+[ 2015-05-05T19:39:20+08:00 ] ::1 /movie/i_movie/index.php/Admin/Movie/showlist
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Admin/View\Movie\showlist.html"  on line 105 "{$foreach $arr as $k=&gt;$v}"  - Unexpected " as ", expected one of: "}" , " "
+
+[ 2015-05-05T19:39:21+08:00 ] ::1 /movie/i_movie/index.php/Admin/Movie/showlist
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Admin/View\Movie\showlist.html"  on line 105 "{$foreach $arr as $k=&gt;$v}"  - Unexpected " as ", expected one of: "}" , " "
+
+[ 2015-05-05T19:39:21+08:00 ] ::1 /movie/i_movie/index.php/Admin/Movie/showlist
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Admin/View\Movie\showlist.html"  on line 105 "{$foreach $arr as $k=&gt;$v}"  - Unexpected " as ", expected one of: "}" , " "
+
+[ 2015-05-05T19:39:22+08:00 ] ::1 /movie/i_movie/index.php/Admin/Movie/showlist
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Admin/View\Movie\showlist.html"  on line 105 "{$foreach $arr as $k=&gt;$v}"  - Unexpected " as ", expected one of: "}" , " "
+
+[ 2015-05-05T19:39:56+08:00 ] ::1 /movie/i_movie/index.php/Admin/Movie/showlist
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Admin/View\Movie\showlist.html"  on line 124 "{/$foreach}"  - Unexpected "$", expected one of: "identifier"
+
+[ 2015-05-05T19:39:57+08:00 ] ::1 /movie/i_movie/index.php/Admin/Movie/showlist
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Admin/View\Movie\showlist.html"  on line 124 "{/$foreach}"  - Unexpected "$", expected one of: "identifier"
+
+[ 2015-05-05T19:39:57+08:00 ] ::1 /movie/i_movie/index.php/Admin/Movie/showlist
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Admin/View\Movie\showlist.html"  on line 124 "{/$foreach}"  - Unexpected "$", expected one of: "identifier"
+
+[ 2015-05-05T19:39:58+08:00 ] ::1 /movie/i_movie/index.php/Admin/Movie/showlist
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Admin/View\Movie\showlist.html"  on line 124 "{/$foreach}"  - Unexpected "$", expected one of: "identifier"
+
+[ 2015-05-05T19:41:44+08:00 ] ::1 /movie/i_movie/index.php/Admin/Movie/m_find
+ERR: 模板不存在:F:/wamp/www/movie/i_movie/Admin/View/Movie/Movie.html
+

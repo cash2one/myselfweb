@@ -1,0 +1,256 @@
+[ 2016-04-23T10:51:20+08:00 ] 118.193.200.66 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000125s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\localuser\ftp483451\Web\Connect2.1\qqConnectAPI.php 第 2 行.
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000039s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000029s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplate [ RunTime:0.011097s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011172s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000016s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000067s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000025s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000039s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000091s ]
+
+[ 2016-04-23T10:52:18+08:00 ] 118.193.200.70 /
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000094s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\localuser\ftp483451\Web\Connect2.1\qqConnectAPI.php 第 2 行.
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000033s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000167s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008073s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008139s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000056s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000076s ]
+
+[ 2016-04-23T10:52:25+08:00 ] 118.193.200.70 /index.php/Home/index/login
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000034s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000115s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\localuser\ftp483451\Web\Connect2.1\qqConnectAPI.php 第 2 行.
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\localuser\ftp483451\Web\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `myweb_user` [ RunTime:0.002723s ]
+NOTIC: [8] Undefined index: code D:\localuser\ftp483451\Web\Home\Controller\IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined index: state D:\localuser\ftp483451\Web\Home\Controller\IndexController.class.php 第 87 行.
+SQL: SELECT * FROM `myweb_user` WHERE ( username='1' and password='1' and ispassword='1' )  [ RunTime:0.000335s ]
+SQL: SHOW COLUMNS FROM `myweb_user_action` [ RunTime:0.002565s ]
+SQL: INSERT INTO `myweb_user_action` (`ip`,`userid`,`area`,`action`,`action_time`) VALUES ('101.242.39.247',9,'中国北京北京','登陆系统','2016-04-23 10:52:25') [ RunTime:0.001924s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000070s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplate [ RunTime:0.015645s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015779s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000031s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000129s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000077s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000184s ]
+
+[ 2016-04-23T10:52:33+08:00 ] 118.193.200.70 /index.php/Home/movie/index
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000034s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000116s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000063s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\localuser\ftp483451\Web\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `myweb_user_action` [ RunTime:0.002530s ]
+SQL: INSERT INTO `myweb_user_action` (`ip`,`userid`,`area`,`action`,`action_time`) VALUES ('101.242.39.247',9,'中国北京北京','登陆个人影院','2016-04-23 10:52:32') [ RunTime:0.001355s ]
+SQL: SHOW COLUMNS FROM `myweb_movie_info` [ RunTime:0.002756s ]
+SQL: SELECT * FROM `myweb_movie_info` WHERE ( is_update_info=1 )  [ RunTime:0.000565s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000059s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplate [ RunTime:0.015784s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015917s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000035s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000151s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000077s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000181s ]
+
+[ 2016-04-23T10:54:07+08:00 ] 118.193.200.70 /index.php/Home/movie/index
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000030s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000108s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000033s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\localuser\ftp483451\Web\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `myweb_user_action` [ RunTime:0.002433s ]
+SQL: INSERT INTO `myweb_user_action` (`ip`,`userid`,`area`,`action`,`action_time`) VALUES ('101.242.39.247',9,'中国北京北京','登陆个人影院','2016-04-23 10:54:06') [ RunTime:0.001385s ]
+SQL: SHOW COLUMNS FROM `myweb_movie_info` [ RunTime:0.003205s ]
+SQL: SELECT * FROM `myweb_movie_info` WHERE ( is_update_info=1 )  [ RunTime:0.000842s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000033s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010747s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010824s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000018s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000072s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000032s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000095s ]
+
+[ 2016-04-23T10:54:13+08:00 ] 118.193.200.70 /index.php/Home/Movie/movie_detail?id=8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000034s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000116s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000038s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\localuser\ftp483451\Web\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `myweb_movie_info` [ RunTime:0.002602s ]
+SQL: SELECT * FROM `myweb_movie_info` WHERE ( id=8 )  [ RunTime:0.000369s ]
+SQL: UPDATE `myweb_movie_info` SET `download_url`='http://sdl37.yunpan.cn/share.php?method=Share.download&cqid=0336153db3b57db9e7acfecaade69b17&dt=37.7db77de91657f92897411ad75c5fe184&e=1461553293&fhash=52ca2e07cf5a3926ccf18c809a871f803b7c062d&fname=%25E6%2597%25B6%25E7%25A9%25BA%25E6%2581%258B%25E6%2597%2585%25E4%25BA%25BA&fsize=742140413&nid=14611222436126475&st=39a92a599ad7ba87b0cf62eff9a4c63b&xqid=1479036130',`create_download_url_time`='2016-04-23 10:54:13' WHERE ( id=8 ) [ RunTime:0.002669s ]
+SQL: SELECT * FROM `myweb_movie_info` WHERE ( id=8 )  [ RunTime:0.000450s ]
+SQL: SHOW COLUMNS FROM `myweb_user_action` [ RunTime:0.002243s ]
+SQL: INSERT INTO `myweb_user_action` (`ip`,`userid`,`area`,`action`,`action_time`) VALUES ('101.242.39.247',9,'中国北京北京','察看影片信息-时空恋旅人','2016-04-23 10:54:13') [ RunTime:0.001585s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000033s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010506s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010587s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000020s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000075s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000034s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000046s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000105s ]
+
+[ 2016-04-23T10:57:57+08:00 ] 118.193.200.70 /index.php/Home/Movie/index.html
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000034s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000123s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000038s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\localuser\ftp483451\Web\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `myweb_user_action` [ RunTime:0.002283s ]
+SQL: INSERT INTO `myweb_user_action` (`ip`,`userid`,`area`,`action`,`action_time`) VALUES ('101.242.39.247',9,'中国北京北京','登陆个人影院','2016-04-23 10:57:56') [ RunTime:0.000926s ]
+SQL: SHOW COLUMNS FROM `myweb_movie_info` [ RunTime:0.002518s ]
+SQL: SELECT * FROM `myweb_movie_info` WHERE ( is_update_info=1 )  [ RunTime:0.000821s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000060s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplate [ RunTime:0.013693s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013802s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000021s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000080s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000034s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000047s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000104s ]
+
+[ 2016-04-23T10:58:30+08:00 ] 118.193.200.70 /index.php/Home/Movie/index.html
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000111s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000052s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\localuser\ftp483451\Web\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `myweb_user_action` [ RunTime:0.003316s ]
+SQL: INSERT INTO `myweb_user_action` (`ip`,`userid`,`area`,`action`,`action_time`) VALUES ('101.242.39.247',9,'中国北京北京','登陆个人影院','2016-04-23 10:58:29') [ RunTime:0.002306s ]
+SQL: SHOW COLUMNS FROM `myweb_movie_info` [ RunTime:0.004176s ]
+SQL: SELECT * FROM `myweb_movie_info` WHERE ( is_update_info=1 )  [ RunTime:0.000543s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000036s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010495s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010573s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000019s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000077s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000046s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000105s ]
+
+[ 2016-04-23T10:58:37+08:00 ] 118.193.200.70 /index.php/Home/Movie/movie_detail?id=10
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000086s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000198s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000090s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\localuser\ftp483451\Web\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `myweb_movie_info` [ RunTime:0.002547s ]
+SQL: SELECT * FROM `myweb_movie_info` WHERE ( id=10 )  [ RunTime:0.000572s ]
+SQL: UPDATE `myweb_movie_info` SET `download_url`='http://sdl42.yunpan.cn/share.php?method=Share.download&cqid=2f0d8106f59b420d753a001eea3d6618&dt=42.1684fbedacbd716c78377d1a8ab4151c&e=1461553557&fhash=b4f21e1cf4f539257d0e38308213845d10dab706&fname=%25E5%259C%25B0%25E9%259B%25B7%25E5%258C%25BA&fsize=1664749059&nid=14611224876131179&st=6df6804757c86ba9189dfb80f28258e7&xqid=1479036130',`create_download_url_time`='2016-04-23 10:58:37' WHERE ( id=10 ) [ RunTime:0.002529s ]
+SQL: SELECT * FROM `myweb_movie_info` WHERE ( id=10 )  [ RunTime:0.000575s ]
+SQL: SHOW COLUMNS FROM `myweb_user_action` [ RunTime:0.003254s ]
+SQL: INSERT INTO `myweb_user_action` (`ip`,`userid`,`area`,`action`,`action_time`) VALUES ('101.242.39.247',9,'中国北京北京','察看影片信息-地雷区','2016-04-23 10:58:37') [ RunTime:0.002603s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000052s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplate [ RunTime:0.016788s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016908s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000034s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000144s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000176s ]
+

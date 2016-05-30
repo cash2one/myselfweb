@@ -1,0 +1,78 @@
+[ 2015-05-03T10:25:59+08:00 ] ::1 /movie/i_movie/index.php/Admin/Cate/design.html
+ERR: 非法操作:design
+
+[ 2015-05-03T10:27:58+08:00 ] ::1 /movie/i_movie/index.php/Admin/Index/__MODEL__/Cate/showcate
+ERR: 非法操作:__MODEL__
+
+[ 2015-05-03T10:54:18+08:00 ] ::1 /movie/i_movie/index.php/Admin/Cate/index.html
+ERR: 非法操作:index
+
+[ 2015-05-03T10:54:22+08:00 ] ::1 /movie/i_movie/index.php/Admin/Cate/index.html
+ERR: 非法操作:index
+
+[ 2015-05-03T10:55:43+08:00 ] ::1 /movie/i_movie/index.php/Admin/Cate/index.html
+ERR: 非法操作:index
+
+[ 2015-05-03T11:23:56+08:00 ] ::1 /movie/i_movie/index.php/Admin/Cate/showcate
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Admin/View\Cate\showcate.html"  on line 65 "{var_dump($v=&gt;id)}"  - Unexpected "=>", expected one of: "","" , ")"
+
+[ 2015-05-03T11:25:19+08:00 ] ::1 /movie/i_movie/index.php/Admin/Cate/showcate
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Admin/View\Cate\showcate.html"  on line 60 "{echo $k.&quot;     &quot;.$v[id].'     '.$v[catename]}"  - Unexpected """, expected one of: "{" , "$" , "identifier" , INTEGER
+
+[ 2015-05-03T11:25:45+08:00 ] ::1 /movie/i_movie/index.php/Admin/Cate/showcate
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Admin/View\Cate\showcate.html"  on line 60 "{echo $k.&quot;     &quot;.$v.id.'     '.$v.catename}"  - Unexpected """, expected one of: "{" , "$" , "identifier" , INTEGER
+
+[ 2015-05-03T11:25:47+08:00 ] ::1 /movie/i_movie/index.php/Admin/Cate/showcate
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Admin/View\Cate\showcate.html"  on line 60 "{echo $k.&quot;     &quot;.$v.id.'     '.$v.catename}"  - Unexpected """, expected one of: "{" , "$" , "identifier" , INTEGER
+
+[ 2015-05-03T11:25:47+08:00 ] ::1 /movie/i_movie/index.php/Admin/Cate/showcate
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Admin/View\Cate\showcate.html"  on line 60 "{echo $k.&quot;     &quot;.$v.id.'     '.$v.catename}"  - Unexpected """, expected one of: "{" , "$" , "identifier" , INTEGER
+
+[ 2015-05-03T11:26:10+08:00 ] ::1 /movie/i_movie/index.php/Admin/Cate/showcate
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Admin/View\Cate\showcate.html"  on line 60 "{echo $k.'      '.$v.id.'     '.$v.catename}"  - Unexpected "'      '", expected one of: "{" , "$" , "identifier" , INTEGER
+
+[ 2015-05-03T11:26:11+08:00 ] ::1 /movie/i_movie/index.php/Admin/Cate/showcate
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Admin/View\Cate\showcate.html"  on line 60 "{echo $k.'      '.$v.id.'     '.$v.catename}"  - Unexpected "'      '", expected one of: "{" , "$" , "identifier" , INTEGER
+
+[ 2015-05-03T11:26:27+08:00 ] ::1 /movie/i_movie/index.php/Admin/Cate/showcate
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Admin/View\Cate\showcate.html"  on line 60 "{echo $k.$v.id.$v.catename}" unknown tag "echo"
+
+[ 2015-05-03T11:26:29+08:00 ] ::1 /movie/i_movie/index.php/Admin/Cate/showcate
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Admin/View\Cate\showcate.html"  on line 60 "{echo $k.$v.id.$v.catename}" unknown tag "echo"
+
+[ 2015-05-03T11:49:43+08:00 ] ::1 /movie/i_movie/index.php/Admin/Cate/showcate.html
+ERR: 模板不存在:F:/wamp/www/movie/i_movie/Admin/View/Cate/addcate.html.html
+
+[ 2015-05-03T11:50:02+08:00 ] ::1 /movie/i_movie/index.php/Admin/Cate/showcate
+ERR: 模板不存在:F:/wamp/www/movie/i_movie/Admin/View/Cate/addcate.html.html
+
+[ 2015-05-03T12:01:37+08:00 ] ::1 /movie/i_movie/index.php/Admin/Cate/showcate
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Admin/View\Cate\showcate.html"  on line 83 "{echo &quot;                   &quot;}" unknown tag "echo"
+
+[ 2015-05-03T12:03:01+08:00 ] ::1 /movie/i_movie/index.php/Admin/Cate/ldelcate%3E%3Ci%20class=
+ERR: 非法操作:ldelcate>
+
+[ 2015-05-03T12:05:13+08:00 ] ::1 /movie/i_movie/index.php/Admin/Cate/ldelcate%3E%3Ci%20class=
+ERR: 非法操作:ldelcate>
+
+[ 2015-05-03T12:06:00+08:00 ] ::1 /movie/i_movie/index.php/Admin/Cate/ldelcate%3E%3Ci%20class=
+ERR: 非法操作:ldelcate>
+
+[ 2015-05-03T12:07:57+08:00 ] ::1 /movie/i_movie/index.php/Admin/Cate/ldelcate%3E%3Ci%20class=
+ERR: 非法操作:ldelcate>
+
+[ 2015-05-03T12:08:05+08:00 ] ::1 /movie/i_movie/index.php/Admin/Cate/ldelcate%3E%3Ci%20class=
+ERR: 非法操作:ldelcate>
+
+[ 2015-05-03T12:08:07+08:00 ] ::1 /movie/i_movie/index.php/Admin/Cate/ldelcate%3E%3Ci%20class=
+ERR: 非法操作:ldelcate>
+
+[ 2015-05-03T12:36:24+08:00 ] ::1 /movie/i_movie/index.php/Admin/Cate/showcate
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Admin/View\Cate\showcate.html"  on line 13 "for(var i=0;i&lt;checkboxs.length;i++){checkboxs[i].checked = obj.checked;}"  - Unexpected "[", expected one of: "}" , " "
+
+[ 2015-05-03T12:36:24+08:00 ] ::1 /movie/i_movie/index.php/Admin/Cate/showcate
+ERR: Syntax Error in template "F:/wamp/www/movie/i_movie/Admin/View\Cate\showcate.html"  on line 13 "for(var i=0;i&lt;checkboxs.length;i++){checkboxs[i].checked = obj.checked;}"  - Unexpected "[", expected one of: "}" , " "
+
+[ 2015-05-03T14:33:45+08:00 ] ::1 /movie/i_movie/index.php/Admin/Cate/ldelcate
+ERR: 参数错误或者未定义:id
+

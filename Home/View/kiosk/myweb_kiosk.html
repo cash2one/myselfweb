@@ -1,0 +1,679 @@
+<!DOCTYPE html>
+<!-- saved from url=(0066)http://www.17sucai.com/preview/486567/2016-02-16/myblog/index.html
+-->
+<html>
+  
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=GBK">
+    <meta charset="gb2312">
+    <title>
+      我的博客
+    </title>
+    <meta name="关键字" content="">
+    <link href="{$smarty.const.Home_CSS}kiosk_buju.css" rel="stylesheet">
+    <link href="{$smarty.const.Home_CSS}kiosk_index.css" rel="stylesheet">
+    <script type="text/javascript" src="{$smarty.const.Home_JS}jquery.min.js">
+    </script>
+    <script type="text/javascript" src="{$smarty.const.Home_JS}kiosk_sliders.js">
+    </script>
+    <script type="text/javascript">
+$(document).ready(function() { 
+	$.fn.smartFloat = function() {
+	var position = function(element) {
+		var top = 10;
+		element.css({
+					position: 'fixed',
+					top: top
+				});	
+};
+	return $(this).each(function() {
+		position($(this));						 
+	});
+};
+//绑定
+	$(".parinforma").smartFloat();
+
+
+	$("li").click(function(){
+	var a=this.id;
+			$.ajax({
+				type:"POST",
+  			url: "{$smarty.const.__MODULE__}/kiosk/getbookinfo",
+  			dataType: 'text',
+  			data: "b="+a,
+  			success: function(msg){
+  				msg=$.parseJSON(msg);//ajax返回的字符自动带上转义符,这一步将转义符去掉
+  				//alert(msg);
+  				$('.showLeft').remove();
+  				$('.showRight').remove();
+			$(".parinforma").append(msg);
+			var h=$('pre').height();
+			if (h>800) {
+				$('pre').height(800);}
+		
+
+  				
+  			},
+  		
+});
+
+
+
+	
+	$(".parinforma").slideDown("normal");
+})
+
+$(".closebtn").click(function(){
+	$(".parinforma").hide();
+	
+}) 
+}); 
+
+</script>
+  <script type="text/javascript">
+
+  </script>
+    <div id="GWDANG_HAS_BUILT" class="chrome">
+    </div>
+  </head>
+  
+  <body>
+ 
+	<div style="width:780px;margin:30px auto; text-align:center">
+			<div class="parinforma cssshadow">
+			<div class='closebtn'></div>
+			</div>
+		
+		
+			
+		
+			
+		
+			
+	</div>		
+
+    <header>
+      <div class="logo f_l">
+        <a href="http://www.17sucai.com/preview/486567/2016-02-16/myblog/index.html#">
+          <img src="{$smarty.const.Home_IMG}kiosk/logo.png">
+        </a>
+      </div>
+      <div id="topnav" class="f_r">
+        <ul>
+          <a href="http://www.17sucai.com/preview/486567/2016-02-16/myblog/index.html#"
+          target="_blank" id="topnav_current">
+            首页
+          </a>
+          <a href="http://www.17sucai.com/preview/486567/2016-02-16/myblog/index.html#"
+          target="_blank">
+            关于我
+          </a>
+          <a href="http://www.17sucai.com/preview/486567/2016-02-16/myblog/index.html#"
+          target="_blank">
+            文章
+          </a>
+          <a href="http://www.17sucai.com/preview/486567/2016-02-16/myblog/index.html#"
+          target="_blank">
+            心情
+          </a>
+          <a href="http://www.17sucai.com/preview/486567/2016-02-16/myblog/index.html#"
+          target="_blank">
+            相册
+          </a>
+          <a href="http://www.17sucai.com/preview/486567/2016-02-16/myblog/index.html#"
+          target="_blank">
+            留言
+          </a>
+        </ul>
+      </div>
+    </header>
+    <article>
+      <div class="l_box f_l">
+        <div class="banner">
+          <div id="slide-holder">
+            <div id="slide-runner">
+              <a href="http://www.17sucai.com/" target="_blank">
+                <img id="slide-img-1" src="{$smarty.const.Home_IMG}kiosk/a1.jpg" alt=""
+                style="left: -1000px;">
+              </a>
+              <a href="http://www.17sucai.com/" target="_blank">
+                <img id="slide-img-2" src="{$smarty.const.Home_IMG}kiosk/a2.jpg" alt=""
+                style="left: 0px;">
+              </a>
+              <a href="http://www.17sucai.com/" target="_blank">
+                <img id="slide-img-3" src="{$smarty.const.Home_IMG}kiosk/a3.jpg" alt=""
+                style="left: 1000px;">
+              </a>
+              <a href="http://www.17sucai.com/" target="_blank">
+                <img id="slide-img-4" src="{$smarty.const.Home_IMG}kiosk/a4.jpg" alt=""
+                style="left: 2000px;">
+              </a>
+              <div id="slide-controls" style="display:block;">
+                <p id="slide-client" class="text">
+                  <strong>
+                  </strong>
+                  <span>
+                    醉牛逼
+                  </span>
+                </p>
+                <p id="slide-desc" class="text">
+                  醉牛逼是武魂醉牛逼的存在
+                </p>
+                <p id="slide-nav">
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <script>
+          if (!window.slider) {
+            var slider = {};
+          }
+          slider.data = [{
+            "id": "slide-img-1",
+            //与slide-runner中的img标签id对应
+            "client": "醉牛逼",
+            "desc": "武魂醉牛逼的存在" //这里描述图片内容
+          },
+          {
+            "id": "slide-img-2",
+            "client": "醉牛逼",
+            "desc": "醉牛逼是武魂醉牛逼的存在"
+          },
+          {
+            "id": "slide-img-3",
+            "client": "醉牛逼",
+            "desc": "醉牛逼是武魂醉牛逼的存在"
+          },
+          {
+            "id": "slide-img-4",
+            "client": "醉牛逼",
+            "desc": "醉牛逼是武魂醉牛逼的存在"
+          },
+
+          ];
+        </script>
+        <div class="topnews">
+          <h2>
+            <div class="tab-top">
+              <ul class="hd" id="first_title">
+                <li class="cur">
+                  <a href="http://www.17sucai.com/">
+                    新书推荐
+                  </a>
+                </li>
+                <li class="">
+                  <a href="http://www.17sucai.com/">
+                    最新文章
+                  </a>
+                </li>
+                <li class="">
+                  <a href="http://www.17sucai.com/">
+                    站长推荐
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </h2>
+          <div class="tab-main" id="first_title_main">
+            <div class="blogs" style="display: block;">
+              <ul>
+              {foreach key=cid item=con from=$info['book']}     
+                <li id="{$con.id}">
+                  <figure>
+                    <img src="{$con.img}" id="test">
+                  </figure>
+                  <span>
+                    <h3>
+                      <a href="#">
+                       {$con.name}
+                      </a>
+                    </h3>
+                    <a href="#">
+                       作者: {$con.author}
+                      </a>
+                    <p>
+                      "{$con.recommend}
+                      ..."
+                    </p>
+                  </span>
+                  <p class="autor">
+                    <span class="dtime f_l">
+                      时间:{$info.time}
+                    </span>
+                </li>
+                {/foreach}
+                
+              </ul>
+            </div>
+            <div class="blogs" style="display: none;">
+              <ul>
+                <li>
+                  <figure>
+                    <img src="{$smarty.const.Home_IMG}kiosk/01.jpg">
+                  </figure>
+                  <span>
+                    <h3>
+                      <a href="http://www.17sucai.com/">
+                        住在手机里的朋友1
+                      </a>
+                    </h3>
+                    <p>
+                      "通信时代，无论是初次相见还是老友重逢，交换联系方式，常常是彼此交换名片，然后郑重或是出于礼貌用手机记下对方的电话号码。在快节奏的生活里，我们不知不觉中就成为住在别人手机里的朋友。又因某些意外，变成了别人手机里匆忙的过客，这种快餐式的友谊
+                      ..."
+                    </p>
+                  </span>
+                  <p class="autor">
+                    <span class="dtime f_l">
+                      2016-02-16
+                    </span>
+                </li>
+                <li>
+                  <figure>
+                    <img src="{$smarty.const.Home_IMG}kiosk/01.jpg">
+                  </figure>
+                  <span>
+                    <h3>
+                      <a href="http://www.17sucai.com/">
+                        住在手机里的朋友1
+                      </a>
+                    </h3>
+                    <p>
+                      "通信时代，无论是初次相见还是老友重逢，交换联系方式，常常是彼此交换名片，然后郑重或是出于礼貌用手机记下对方的电话号码。在快节奏的生活里，我们不知不觉中就成为住在别人手机里的朋友。又因某些意外，变成了别人手机里匆忙的过客，这种快餐式的友谊
+                      ..."
+                    </p>
+                  </span>
+                  <p class="autor">
+                    <span class="dtime f_l">
+                      2016-02-16
+                    </span>
+                </li>
+              </ul>
+            </div>
+            <div class="blogs" style="display: none;">
+              <ul>
+                <li>
+                  <figure>
+                    <img src="{$smarty.const.Home_IMG}kiosk/01.jpg">
+                  </figure>
+                  <span>
+                    <h3>
+                      <a href="http://www.17sucai.com/">
+                        住在手机里的朋友2
+                      </a>
+                    </h3>
+                    <p>
+                      "通信时代，无论是初次相见还是老友重逢，交换联系方式，常常是彼此交换名片，然后郑重或是出于礼貌用手机记下对方的电话号码。在快节奏的生活里，我们不知不觉中就成为住在别人手机里的朋友。又因某些意外，变成了别人手机里匆忙的过客，这种快餐式的友谊
+                      ..."
+                    </p>
+                  </span>
+                  <p class="autor">
+                    <span class="dtime f_l">
+                      2016-02-16
+                    </span>
+                </li>
+                <li>
+                  <figure>
+                    <img src="{$smarty.const.Home_IMG}kiosk/01.jpg">
+                  </figure>
+                  <span>
+                    <h3>
+                      <a href="http://www.17sucai.com/">
+                        住在手机里的朋友2
+                      </a>
+                    </h3>
+                    <p>
+                      "通信时代，无论是初次相见还是老友重逢，交换联系方式，常常是彼此交换名片，然后郑重或是出于礼貌用手机记下对方的电话号码。在快节奏的生活里，我们不知不觉中就成为住在别人手机里的朋友。又因某些意外，变成了别人手机里匆忙的过客，这种快餐式的友谊
+                      ..."
+                    </p>
+                  </span>
+                  <p class="autor">
+                    <span class="dtime f_l">
+                      2016-02-16
+                    </span>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="r_box f_r">
+        <div class="ad300x100">
+          <img src="{$smarty.const.Home_IMG}kiosk/wh.jpg">
+        </div>
+        <div class="tab" id="lp_right_select">
+          <script>
+            window.onload = function() {
+              var oLi = document.getElementById("tb").getElementsByTagName("li");
+              var oUl = document.getElementById("tb-main").getElementsByTagName("div");
+              for (var i = 0; i < oLi.length; i++) {
+                oLi[i].index = i;
+                oLi[i].onmouseover = function() {
+                  for (var n = 0; n < oLi.length; n++) oLi[n].className = "";
+                  this.className = "cur";
+                  for (var n = 0; n < oUl.length; n++) oUl[n].style.display = "none";
+                  oUl[this.index].style.display = "block";
+                }
+              }
+              var oLi1 = document.getElementById("first_title").getElementsByTagName("li");
+              var oUl1 = document.getElementById("first_title_main").getElementsByTagName("div");
+              for (var i = 0; i < oLi1.length; i++) {
+                oLi1[i].index = i;
+                oLi1[i].onmouseover = function() {
+                  for (var n = 0; n < oLi1.length; n++) oLi1[n].className = "";
+                  this.className = "cur";
+                  for (var n = 0; n < oUl.length; n++) oUl1[n].style.display = "none";
+                  oUl1[this.index].style.display = "block";
+                }
+              }
+
+            }
+          </script>
+          <div class="tab-top">
+            <ul class="hd" id="tb">
+              <li class="">
+                <a href="http://www.17sucai.com/">
+                  点击排行
+                </a>
+              </li>
+              <li class="cur">
+                <a href="http://www.17sucai.com/">
+                  最新文章
+                </a>
+              </li>
+              <li class="">
+                <a href="http://www.17sucai.com/">
+                  站长推荐
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div class="tab-main" id="tb-main">
+            <div class="bd bd-news" style="display: none;">
+              <ul>
+                <li>
+                  <a href="http://www.17sucai.com/" target="_blank">
+                    住在手机里的朋友
+                  </a>
+                </li>
+                <li>
+                  <a href="http://www.17sucai.com/" target="_blank">
+                    教你怎样用欠费手机拨打电话
+                  </a>
+                </li>
+                <li>
+                  <a href="http://www.17sucai.com/" target="_blank">
+                    原来以为，一个人的勇敢是，删掉他的手机号码...
+                  </a>
+                </li>
+                <li>
+                  <a href="http://www.17sucai.com/" target="_blank">
+                    手机的16个惊人小秘密，据说99.999%的人都不知
+                  </a>
+                </li>
+                <li>
+                  <a href="http://www.17sucai.com/" target="_blank">
+                    你面对的是生活而不是手机
+                  </a>
+                </li>
+                <li>
+                  <a href="http://www.17sucai.com/" target="_blank">
+                    豪雅手机正式发布! 在法国全手工打造的奢侈品
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div class="bd bd-news" style="display: block;">
+              <ul>
+                <li>
+                  <a href="http://www.17sucai.com/" target="_blank">
+                    原来以为，一个人的勇敢是，删掉他的手机号码...
+                  </a>
+                </li>
+                <li>
+                  <a href="http://www.17sucai.com/" target="_blank">
+                    手机的16个惊人小秘密，据说99.999%的人都不知
+                  </a>
+                </li>
+                <li>
+                  <a href="http://www.17sucai.com/" target="_blank">
+                    住在手机里的朋友
+                  </a>
+                </li>
+                <li>
+                  <a href="http://www.17sucai.com/" target="_blank">
+                    教你怎样用欠费手机拨打电话
+                  </a>
+                </li>
+                <li>
+                  <a href="http://www.17sucai.com/" target="_blank">
+                    你面对的是生活而不是手机
+                  </a>
+                </li>
+                <li>
+                  <a href="http://www.17sucai.com/" target="_blank">
+                    豪雅手机正式发布! 在法国全手工打造的奢侈品
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div class="bd bd-news" style="display: none;">
+              <ul>
+                <li>
+                  <a href="http://www.17sucai.com/" target="_blank">
+                    手机的16个惊人小秘密，据说99.999%的人都不知
+                  </a>
+                </li>
+                <li>
+                  <a href="http://www.17sucai.com/" target="_blank">
+                    你面对的是生活而不是手机
+                  </a>
+                </li>
+                <li>
+                  <a href="http://www.17sucai.com/" target="_blank">
+                    住在手机里的朋友
+                  </a>
+                </li>
+                <li>
+                  <a href="http://www.17sucai.com/" target="_blank">
+                    豪雅手机正式发布! 在法国全手工打造的奢侈品
+                  </a>
+                </li>
+                <li>
+                  <a href="http://www.17sucai.com/" target="_blank">
+                    你面对的是生活而不是手机
+                  </a>
+                </li>
+                <li>
+                  <a href="http://www.17sucai.com/" target="_blank">
+                    原来以为，一个人的勇敢是，删掉他的手机号码...
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="cloud">
+          <h3>
+            标签云
+          </h3>
+          <ul>
+            <li>
+              <a href="http://www.17sucai.com/">
+                个人博客
+              </a>
+            </li>
+            <li>
+              <a href="http://www.17sucai.com/">
+                web开发
+              </a>
+            </li>
+            <li>
+              <a href="http://www.17sucai.com/">
+                前端设计
+              </a>
+            </li>
+            <li>
+              <a href="http://www.17sucai.com/">
+                Html
+              </a>
+            </li>
+            <li>
+              <a href="http://www.17sucai.com/">
+                CSS3
+              </a>
+            </li>
+            <li>
+              <a href="http://www.17sucai.com/">
+                CSS3+HTML5
+              </a>
+            </li>
+            <li>
+              <a href="http://www.17sucai.com/">
+                百度
+              </a>
+            </li>
+            <li>
+              <a href="http://www.17sucai.com/">
+                JavaScript
+              </a>
+            </li>
+            <li>
+              <a href="http://www.17sucai.com/">
+                C/C++
+              </a>
+            </li>
+            <li>
+              <a href="http://www.17sucai.com/">
+                ASP.NET
+              </a>
+            </li>
+            <li>
+              <a href="http://www.17sucai.com/">
+                IOS开发
+              </a>
+            </li>
+            <li>
+              <a href="http://www.17sucai.com/">
+                Android开发
+              </a>
+            </li>
+            <li>
+              <a href="http://www.17sucai.com/">
+                PHP
+              </a>
+            </li>
+            <li>
+              <a href="http://www.17sucai.com/">
+                VS
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="tuwen">
+          <h3>
+            图文推荐
+          </h3>
+          <ul>
+            <li>
+              <a href="http://www.17sucai.com/">
+                <img src="{$smarty.const.Home_IMG}kiosk/01.jpg">
+                <b>
+                  住在手机里的朋友
+                </b>
+              </a>
+              <p>
+                <span class="tulanum">
+                  <a href="http://www.17sucai.com/">
+                    手机配件
+                  </a>
+                </span>
+                <span class="tutime">
+                  2016-02-16
+                </span>
+              </p>
+            </li>
+            <li>
+              <a href="http://www.17sucai.com/">
+                <img src="{$smarty.const.Home_IMG}kiosk/02.jpg">
+                <b>
+                  教你怎样用欠费手机拨打电话
+                </b>
+              </a>
+              <p>
+                <span class="tulanum">
+                  <a href="http://www.17sucai.com/">
+                    手机配件
+                  </a>
+                </span>
+                <span class="tutime">
+                  2016-02-16
+                </span>
+              </p>
+            </li>
+            <li>
+              <a href="http://www.17sucai.com/">
+                <img src="{$smarty.const.Home_IMG}kiosk/03.jpg">
+                <b>
+                  手机的16个惊人小秘密，据说99.999%的人都不知
+                </b>
+              </a>
+              <p>
+                <span class="tulanum">
+                  <a href="http://www.17sucai.com/">
+                    手机配件
+                  </a>
+                </span>
+                <span class="tutime">
+                  2016-02-16
+                </span>
+              </p>
+            </li>
+            <li>
+              <a href="http://www.17sucai.com/">
+                <img src="{$smarty.const.Home_IMG}kiosk/06.jpg">
+                <b>
+                  原来以为，一个人的勇敢是，删掉他的手机号码...
+                </b>
+              </a>
+              <p>
+                <span class="tulanum">
+                  <a href="http://www.17sucai.com/">
+                    手机配件
+                  </a>
+                </span>
+                <span class="tutime">
+                  2016-02-16
+                </span>
+              </p>
+            </li>
+            <li>
+              <a href="http://www.17sucai.com/">
+                <img src="{$smarty.const.Home_IMG}kiosk/04.jpg">
+                <b>
+                  豪雅手机正式发布! 在法国全手工打造的奢侈品
+                </b>
+              </a>
+              <p>
+                <span class="tulanum">
+                  <a href="http://www.17sucai.com/">
+                    手机配件
+                  </a>
+                </span>
+                <span class="tutime">
+                  2016-02-16
+                </span>
+              </p>
+            </li>
+          </ul>
+        </div>
+        <div class="ad">
+          <img src="{$smarty.const.Home_IMG}kiosk/03.jpg">
+        </div>
+      </div>
+    </article>
+    <script charset="utf-8" src="chrome-extension://ffbnaibchmeoeglpjahiegilahgfcggm/js/btype.js">
+    </script>
+  </body>
+
+</html>

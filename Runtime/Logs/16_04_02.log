@@ -1,0 +1,24 @@
+[ 2016-04-02T14:52:08+08:00 ] 118.193.198.196 /index.php/Home/Weixin/index?signature=2fb91498222d74c6f522df503b98fadbf537b73d&echostr=6083355640594427359&timestamp=1459580315&nonce=366360940
+ERR: Think\Controller:reponseMsg方法不存在！
+
+[ 2016-04-02T14:52:17+08:00 ] 118.193.198.196 /index.php/Home/Weixin/index?signature=da5077fc3a385cfa15d793fd6889d668d793a818&echostr=7497487714573316093&timestamp=1459580324&nonce=461411403
+ERR: Think\Controller:reponseMsg方法不存在！
+
+[ 2016-04-02T14:52:26+08:00 ] 118.193.198.196 /index.php/Home/Weixin/index?signature=8e42172b8f05b5e516c069b1a3f0b6e779cd4d24&echostr=6129368342361800623&timestamp=1459580333&nonce=574520480
+ERR: Think\Controller:reponseMsg方法不存在！
+
+[ 2016-04-02T14:52:27+08:00 ] 118.193.198.196 /index.php/Home/Weixin/index?signature=4a7c0c1693c346e4baf9ecda9090fa71de4a7f35&echostr=9115436147357515247&timestamp=1459580334&nonce=572052438
+ERR: Think\Controller:reponseMsg方法不存在！
+
+[ 2016-04-02T14:52:33+08:00 ] 118.193.198.196 /index.php/Home/Weixin/index?signature=dff752ce450de2b2c2bb011a6fdef2b3b53570ca&echostr=6668640635135720959&timestamp=1459580340&nonce=567175803
+ERR: Think\Controller:reponseMsg方法不存在！
+
+[ 2016-04-02T14:52:34+08:00 ] 118.193.198.196 /index.php/Home/Weixin/index?signature=5a1dade3fba2b8cfcb9b3363a12a213f8aa6e658&echostr=6424392902180339191&timestamp=1459580341&nonce=373518207
+ERR: Think\Controller:reponseMsg方法不存在！
+
+[ 2016-04-02T14:53:50+08:00 ] 118.193.198.196 /index.php/Home/Weixin/index?signature=ee4ce5e290e5cd5774ef815004d1d85ca35134d2&echostr=5588794017635598155&timestamp=1459580417&nonce=674377896
+ERR: Think\Controller:reponseMsg方法不存在！
+
+[ 2016-04-02T14:53:55+08:00 ] 118.193.198.196 /index.php/Home/Weixin/index?signature=2a1fcaa501a71806ea2b97077f3b013b9b6a3589&echostr=5633097348306399079&timestamp=1459580422&nonce=162506470
+ERR: Think\Controller:reponseMsg方法不存在！
+
